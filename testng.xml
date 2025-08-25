@@ -4,13 +4,13 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.Capium365.RunnerFiles.Capium365_Dashboard_Runner"/>
-     <!--<class name="com.Capium365.RunnerFiles.Capium365_BankTab_Runner"/>
+     <class name="com.Capium365.RunnerFiles.Capium365_BankTab_Runner"/>
       <class name="com.Capium365.RunnerFiles.Capium365_Users_Runner"/>
       <class name="com.Capium365.RunnerFiles.Capium365_Receipts_PurchaseInvoice_Runner"/>
       <class name="com.Capium365.RunnerFiles.Capium365_Receipts_Receipts_Runner"/>
       <class name="com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner"/>
       <class name="com.Capium365.RunnerFiles.Capium365_Receipts_Suppliers_Runner"/>   
-      <class name="com.Capium365.RunnerFiles.Capium365_InvoicesTab_Invoices_Runner"/>
+      <!--<class name="com.Capium365.RunnerFiles.Capium365_InvoicesTab_Invoices_Runner"/>
       <class name="com.Capium365.RunnerFiles.Capium365_InvoicesTab_recurringInvoice_Runner"/>
       <class name="com.Capium365.RunnerFiles.Capium365_InvoicesTab_CreditNotes_Runner"/>
       <class name="com.Capium365.RunnerFiles.Capium365_InvoicesTab_Customers_Runner"/>
