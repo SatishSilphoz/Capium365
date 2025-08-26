@@ -50,7 +50,7 @@ public class Capium365_Dashboard_Actions {
 	// Invoice
 	// Locators=======================================================================
 
-	@FindBy(xpath = "(//div[contains(@class, 'mat-select-trigger')])[1]")
+	@FindBy(xpath = "//span[normalize-space()='Invoices']/ancestor::div[2]//mat-form-field")
 	private WebElement InvoiceDashboardDropdown;
 
 	@FindBy(xpath = "//div[@role='listbox']/mat-option")
@@ -63,10 +63,10 @@ public class Capium365_Dashboard_Actions {
 	// Locators
 	// ============================================================================
 
-	@FindBy(xpath = "(//div[contains(@class, 'mat-select-trigger')])[3]")
+	@FindBy(xpath = "//span[normalize-space()='Transactions']/ancestor::div[2]//mat-form-field[2]")
 	private WebElement TransactionsDropdown;
 
-	@FindBy(xpath = "(//div[contains(@class, 'mat-select-trigger')])[2]")
+	@FindBy(xpath = "//span[normalize-space()='Transactions']/ancestor::div[2]//mat-form-field[1]")
 	private WebElement AllAcountsDropdown;
 
 	By SelectAllOptionsOnAcountsDropdown = By.xpath("//mat-option//span[@class='mat-option-text']");
@@ -83,7 +83,7 @@ public class Capium365_Dashboard_Actions {
 	@FindBy(xpath = "//span[normalize-space()='Top Account Names']")
 	private WebElement TopAccountNamesDashboard;
 
-	@FindBy(xpath = "(//mat-select[@panelclass='myPanelClass'])[5]")
+	@FindBy(xpath = "//span[normalize-space()='Top Account Names']/ancestor::div[2]//mat-form-field")
 	private WebElement topAccountsDropdown;
 
 	@FindBy(xpath = "//mat-option//span[@class='mat-option-text']")
@@ -92,7 +92,7 @@ public class Capium365_Dashboard_Actions {
 	// Expenses Flow
 	// ========================================================================
 
-	@FindBy(xpath = "(//div[contains(@class, 'mat-select-trigger')])[6]")
+	@FindBy(xpath = "//span[normalize-space()='Expense Flow']/ancestor::div[2]//mat-form-field")
 	private WebElement ExpensesFlowDropdown;
 
 	@FindBy(xpath = "//span[normalize-space()='Expense Flow']/ancestor::div[contains(@class,'chart-wrapper')]")
@@ -419,9 +419,9 @@ public class Capium365_Dashboard_Actions {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 
 		try {
-
+			
 			WebElement trigger = wait.until(ExpectedConditions.elementToBeClickable(By.xpath(
-					"//span[normalize-space()='Top Earners']/ancestor::div[contains(@class,'d-flex')][1]//div[contains(@class,'mat-select-trigger')]")));
+					"//span[normalize-space()='Top Earners']/ancestor::div[2]//mat-form-field")));
 			trigger.click();
 
 			By optionLocator = By.xpath("//mat-option//span[normalize-space(text())='" + visibleText + "']");
@@ -458,7 +458,7 @@ public class Capium365_Dashboard_Actions {
 
 		try {
 			WebElement trigger = wait.until(ExpectedConditions.elementToBeClickable(By.xpath(
-					"//span[normalize-space()='Sales Flow']/ancestor::div[contains(@class,'d-flex')][1]//div[contains(@class,'mat-select-trigger')]")));
+					"//span[normalize-space()='Sales Flow']/ancestor::div[2]//mat-form-field")));
 			trigger.click();
 
 			By optionLocator = By.xpath("//mat-option//span[normalize-space(text())='" + visibleText + "']");
