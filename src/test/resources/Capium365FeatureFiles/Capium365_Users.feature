@@ -16,29 +16,29 @@ Feature: Validate users tab
 
   @UserTab
   Scenario: Validate add user button with mandatory fields
-    Given Click on users tab
+    Given Click on users tab and verify
     And click on add user button
     Then go with the following steps to add the user
 
   @UserTab
   Scenario: Validate add user button with unmandatory fields
-    Given Click on users tab
+    Given Click on users tab and verify
     And click on add user button
     Then go with the following steps with unmandatory fields to add the user
 
   @UserTab
   Scenario: Validate search bar
-    Given Click on users tab
+    Given Click on users tab and verify
     Then Click on search bar and enter data and verify
 
   @UserTab
   Scenario: Validate status dropdown
-    Given Click on users tab
+    Given Click on users tab and verify
     And Click on all options in status dropdown and verify
 
   @UserTab 
   Scenario: Validate Export to excel
-    Given Click on users tab
+    Given Click on users tab and verify
     And Click on kebab menu
     Then click on export to excel user
     And Click on kebab menu
@@ -48,23 +48,23 @@ Feature: Validate users tab
     
   @UserTab
   Scenario: Validate Ckeck box
-    Given Click on users tab
+    Given Click on users tab and verify
     And click on checkbox in top row
 
   @UserTab
   Scenario: Validate edit icon in the row
-    Given Click on users tab
+    Given Click on users tab and verify
     Then click on edit icon and verify
 
   @UserTab 
   Scenario: Validate the edit user page
-    Given Click on users tab
+    Given Click on users tab and verify
     And click on user id
     Then Edit the details and save
 
   @UserTab
   Scenario: Validate the excel export by clicking the check box
-    Given Click on users tab
+    Given Click on users tab and verify
     And click on checkbox in top row
     Then click on excel option on the down
     Then click on csv option on the down
