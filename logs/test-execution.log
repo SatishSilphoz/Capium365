@@ -7144,3 +7144,1345 @@ Session ID: 32905a820f28ed22de00d578323cad35
 2025-08-22 15:08:53       Successfully redirected to login page after logout.                                              
 2025-08-22 15:08:53       Successfully logged out and redirected to login page.                                            
 2025-08-22 15:08:53       Browser closed.                                                                                  
+2025-08-26 14:56:27       Driver setup successfully                                                                        
+2025-08-26 14:56:27       Scenario:Validate Invoice dashboard chart for 'Time Filter'                                      
+2025-08-26 14:56:27       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 14:56:27       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 14:56:53       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 14:56:53       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 14:56:55       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 14:56:56       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 14:56:56       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 14:56:56       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 14:57:00       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 14:57:01       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 14:57:01       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 14:57:01       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 14:57:14       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 14:57:14       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 14:57:24       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 14:57:24       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 14:57:24       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 14:57:25       the user selects This Year from the filter dropdown                    Anwar           Capium365_Dashboard
+2025-08-26 14:57:26       Captured screenshot for passed step: the user selects This Year from the filter dropdown                           
+2025-08-26 14:57:26       the dashboard metrics should be visible                                Anwar           Capium365_Dashboard
+2025-08-26 14:57:26       Captured screenshot for passed step: the dashboard metrics should be visible                           
+2025-08-26 14:57:26       Successfully captured screenshot: the chart should display month-wise labels                           
+2025-08-26 14:57:26       the chart should display month-wise labels                             Anwar           Capium365_Dashboard
+2025-08-26 14:57:26       Captured screenshot for passed step: the chart should display month-wise labels                           
+2025-08-26 14:57:27       the user selects This Month from the filter dropdown                   Anwar           Capium365_Dashboard
+2025-08-26 14:57:27       Captured screenshot for passed step: the user selects This Month from the filter dropdown                           
+2025-08-26 14:57:27       the dashboard metrics should be visible                                Anwar           Capium365_Dashboard
+2025-08-26 14:57:28       Captured screenshot for passed step: the dashboard metrics should be visible                           
+2025-08-26 14:57:28       Successfully captured screenshot: the chart should display month-wise labels                           
+2025-08-26 14:57:28       the chart should display day-wise labels                               Anwar           Capium365_Dashboard
+2025-08-26 14:57:28       Captured screenshot for passed step: the chart should display day-wise labels                           
+2025-08-26 14:57:30       the user selects This Week from the filter dropdown                    Anwar           Capium365_Dashboard
+2025-08-26 14:57:30       Captured screenshot for passed step: the user selects This Week from the filter dropdown                           
+2025-08-26 14:57:30       the dashboard metrics should be visible                                Anwar           Capium365_Dashboard
+2025-08-26 14:57:30       Captured screenshot for passed step: the dashboard metrics should be visible                           
+2025-08-26 14:57:30       Successfully captured screenshot: the chart should display month-wise labels                           
+2025-08-26 14:57:30       the chart should display day-wise labels                               Anwar           Capium365_Dashboard
+2025-08-26 14:57:31       Captured screenshot for passed step: the chart should display day-wise labels                           
+2025-08-26 14:57:32       the user selects Last Week from the filter dropdown                    Anwar           Capium365_Dashboard
+2025-08-26 14:57:32       Captured screenshot for passed step: the user selects Last Week from the filter dropdown                           
+2025-08-26 14:57:32       the dashboard metrics should be visible                                Anwar           Capium365_Dashboard
+2025-08-26 14:57:32       Captured screenshot for passed step: the dashboard metrics should be visible                           
+2025-08-26 14:57:32       Successfully captured screenshot: the chart should display month-wise labels                           
+2025-08-26 14:57:32       the chart should display day-wise labels                               Anwar           Capium365_Dashboard
+2025-08-26 14:57:33       Captured screenshot for passed step: the chart should display day-wise labels                           
+2025-08-26 14:57:34       the user selects Last Month from the filter dropdown                   Anwar           Capium365_Dashboard
+2025-08-26 14:57:34       Captured screenshot for passed step: the user selects Last Month from the filter dropdown                           
+2025-08-26 14:57:34       the dashboard metrics should be visible                                Anwar           Capium365_Dashboard
+2025-08-26 14:57:35       Captured screenshot for passed step: the dashboard metrics should be visible                           
+2025-08-26 14:57:35       Successfully captured screenshot: the chart should display month-wise labels                           
+2025-08-26 14:57:35       the chart should display day-wise labels                               Anwar           Capium365_Dashboard
+2025-08-26 14:57:35       Captured screenshot for passed step: the chart should display day-wise labels                           
+2025-08-26 14:57:37       the user selects This Quarter from the filter dropdown                 Anwar           Capium365_Dashboard
+2025-08-26 14:57:37       Captured screenshot for passed step: the user selects This Quarter from the filter dropdown                           
+2025-08-26 14:57:37       the dashboard metrics should be visible                                Anwar           Capium365_Dashboard
+2025-08-26 14:57:37       Captured screenshot for passed step: the dashboard metrics should be visible                           
+2025-08-26 14:57:37       Successfully captured screenshot: the chart should display month-wise labels                           
+2025-08-26 14:57:37       the chart should display month-wise labels                             Anwar           Capium365_Dashboard
+2025-08-26 14:57:37       Captured screenshot for passed step: the chart should display month-wise labels                           
+2025-08-26 14:57:39       the user selects Last Quarter from the filter dropdown                 Anwar           Capium365_Dashboard
+2025-08-26 14:57:39       Captured screenshot for passed step: the user selects Last Quarter from the filter dropdown                           
+2025-08-26 14:57:39       the dashboard metrics should be visible                                Anwar           Capium365_Dashboard
+2025-08-26 14:57:39       Captured screenshot for passed step: the dashboard metrics should be visible                           
+2025-08-26 14:57:39       Successfully captured screenshot: the chart should display month-wise labels                           
+2025-08-26 14:57:39       the chart should display month-wise labels                             Anwar           Capium365_Dashboard
+2025-08-26 14:57:39       Captured screenshot for passed step: the chart should display month-wise labels                           
+2025-08-26 14:57:40       the user selects Last Year from the filter dropdown                    Anwar           Capium365_Dashboard
+2025-08-26 14:57:41       Captured screenshot for passed step: the user selects Last Year from the filter dropdown                           
+2025-08-26 14:57:41       the dashboard metrics should be visible                                Anwar           Capium365_Dashboard
+2025-08-26 14:57:41       Captured screenshot for passed step: the dashboard metrics should be visible                           
+2025-08-26 14:57:41       Successfully captured screenshot: the chart should display daily labels for that month                           
+2025-08-26 14:57:41       the chart should display daily labels for that month                   Anwar           Capium365_Dashboard
+2025-08-26 14:57:41       Captured screenshot for passed step: the chart should display daily labels for that month                           
+2025-08-26 14:57:43       the user selects Custom from the filter dropdown                       Anwar           Capium365_Dashboard
+2025-08-26 14:57:43       Captured screenshot for passed step: the user selects Custom from the filter dropdown                           
+2025-08-26 14:57:43       Successfully captured screenshot: the user should be prompted to select a date range                           
+2025-08-26 14:57:43       Captured screenshot for passed step: the user should be prompted to select a date range                           
+2025-08-26 14:57:44       Successfully captured screenshot: the dashboard metrics should update after range selection                           
+2025-08-26 14:57:44       Captured screenshot for passed step: the dashboard metrics should update after range selection                           
+2025-08-26 14:57:45       the user selects This Financial Year from the filter dropdown          Anwar           Capium365_Dashboard
+2025-08-26 14:57:45       Captured screenshot for passed step: the user selects This Financial Year from the filter dropdown                           
+2025-08-26 14:57:45       the dashboard metrics should be visible                                Anwar           Capium365_Dashboard
+2025-08-26 14:57:45       Captured screenshot for passed step: the dashboard metrics should be visible                           
+2025-08-26 14:57:46       Successfully captured screenshot: the chart should display month-wise labels \(Apr to Mar)                           
+2025-08-26 14:57:46       the chart should display month-wise labels \(Apr to Mar)               Anwar           Capium365_Dashboard
+2025-08-26 14:57:46       Captured screenshot for passed step: the chart should display month-wise labels (Apr to Mar)                           
+2025-08-26 14:57:46       Scenario Passed.                                                                                 
+2025-08-26 14:57:46       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 14:57:47       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 14:57:47       Successfully redirected to login page after logout.                                              
+2025-08-26 14:57:47       Successfully logged out and redirected to login page.                                            
+2025-08-26 14:57:48       Browser closed.                                                                                  
+2025-08-26 14:57:54       Scenario:Validate Transactions dashboard chart for 'This Year'                                   
+2025-08-26 14:57:54       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 14:57:54       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 14:57:55       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 14:57:56       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 14:57:57       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 14:57:57       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 14:57:57       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 14:57:57       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 14:58:00       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 14:58:01       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 14:58:01       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 14:58:01       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 14:58:14       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 14:58:14       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 14:58:24       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 14:58:24       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 14:58:24       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 14:58:34       Captured screenshot for failed step: Redirect to365 client                                       
+2025-08-26 14:58:34       Scenario Failed.                                                                                 
+2025-08-26 14:59:35       No logout element was clicked.                                                                   
+2025-08-26 14:59:35       Successfully logged out and redirected to login page.                                            
+2025-08-26 14:59:35       Browser closed.                                                                                  
+2025-08-26 14:59:41       Scenario:User selects each account from the dropdown and verifies transaction data                           
+2025-08-26 14:59:41       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 14:59:41       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 14:59:43       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 14:59:43       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 14:59:44       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 14:59:44       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 14:59:44       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 14:59:44       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 14:59:48       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 14:59:48       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 14:59:48       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 14:59:48       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:00:01       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:00:01       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:00:11       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:00:11       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:00:12       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:00:14       Navigated to the Transactions dashboard                                Anwar           Capium365_Dashboard
+2025-08-26 15:00:14       Successfully captured screenshot: Navigated to Transactions Dashboard                            
+2025-08-26 15:00:14       Captured screenshot for passed step: the user is logged in and navigates to the Transactions dashboard                           
+2025-08-26 15:00:14       Opened All Accounts dropdown                                           Anwar           Capium365_Dashboard
+2025-08-26 15:00:15       Successfully captured screenshot: Opened All Accounts Dropdown                                   
+2025-08-26 15:00:15       Captured screenshot for passed step: the user opens the All Accounts dropdown                           
+2025-08-26 15:00:15       Successfully captured screenshot: Account options loaded dynamically                             
+2025-08-26 15:00:15       Captured screenshot for passed step: the dropdown should display one or more account options dynamically                           
+2025-08-26 15:00:18       Successfully captured screenshot: Chart view for: Cash Account (-)                               
+2025-08-26 15:00:18       Selected account: Cash Account (-)                                     Anwar           All Accounts Dashboard
+2025-08-26 15:00:20       Successfully captured screenshot: Chart view for: SBI (7899)                                     
+2025-08-26 15:00:20       Selected account: SBI (7899)                                           Anwar           All Accounts Dashboard
+2025-08-26 15:00:22       Successfully captured screenshot: Chart view for: ICICI (5533)                                   
+2025-08-26 15:00:22       Selected account: ICICI (5533)                                         Anwar           All Accounts Dashboard
+2025-08-26 15:00:24       Successfully captured screenshot: Chart view for: RBL (5532)                                     
+2025-08-26 15:00:24       Selected account: RBL (5532)                                           Anwar           All Accounts Dashboard
+2025-08-26 15:00:24       Selected each account and captured screenshots                         Anwar           Capium365_Dashboard
+2025-08-26 15:00:24       Captured screenshot for passed step: the user selects each account one by one from the dropdown                           
+2025-08-26 15:00:24       Transaction chart updates per account selection                        Anwar           Capium365_Dashboard
+2025-08-26 15:00:25       Captured screenshot for passed step: the transaction chart should update accordingly for each selected account                           
+2025-08-26 15:00:25       Chart shows bars or 'No data available' as expected                    Anwar           Capium365_Dashboard
+2025-08-26 15:00:25       Captured screenshot for passed step: the chart should show bars or No data available based on the selected account's transactions                           
+2025-08-26 15:00:25       Scenario Passed.                                                                                 
+2025-08-26 15:00:25       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:00:26       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:00:26       Successfully redirected to login page after logout.                                              
+2025-08-26 15:00:26       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:00:27       Browser closed.                                                                                  
+2025-08-26 15:00:32       Scenario:Verify Top Account Names "<Time Filter>" donut chart displays correct data for selected time filter                           
+2025-08-26 15:00:32       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:00:32       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:00:34       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:00:34       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:00:35       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:00:35       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:00:35       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:00:36       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:00:39       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:00:39       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:00:39       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:00:39       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:00:52       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:00:52       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:01:02       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:01:02       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:01:03       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:01:03       user is on the Top Account Names dashboard                             Anwar           Top Account Names dashboard
+2025-08-26 15:01:03       Captured screenshot for passed step: user is on the Top Account Names dashboard                           
+2025-08-26 15:01:15       User selects This Week from the Top Account Names filter dropdown      Anwar           Top Account Names dashboard
+2025-08-26 15:01:15       Successfully captured screenshot: Donut_Chart_This_Week                                          
+2025-08-26 15:01:15       Captured screenshot for passed step: user selects This Week from the filter dropdown                           
+2025-08-26 15:01:15       Successfully captured screenshot: donut chart should be displayedThis_Week                           
+2025-08-26 15:01:15       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:01:15       Captured screenshot for passed step: donut chart should be displayedThis_Week                           
+2025-08-26 15:01:15       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:01:15       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:01:27       User selects Last Week from the Top Account Names filter dropdown      Anwar           Top Account Names dashboard
+2025-08-26 15:01:27       Successfully captured screenshot: Donut_Chart_Last_Week                                          
+2025-08-26 15:01:27       Captured screenshot for passed step: user selects Last Week from the filter dropdown                           
+2025-08-26 15:01:27       Successfully captured screenshot: donut chart should be displayedLast_Week                           
+2025-08-26 15:01:27       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:01:28       Captured screenshot for passed step: donut chart should be displayedLast_Week                           
+2025-08-26 15:01:28       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:01:28       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:01:39       User selects This Month from the Top Account Names filter dropdown     Anwar           Top Account Names dashboard
+2025-08-26 15:01:39       Successfully captured screenshot: Donut_Chart_This_Month                                         
+2025-08-26 15:01:40       Captured screenshot for passed step: user selects This Month from the filter dropdown                           
+2025-08-26 15:01:40       Successfully captured screenshot: donut chart should be displayedThis_Month                           
+2025-08-26 15:01:40       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:01:40       Captured screenshot for passed step: donut chart should be displayedThis_Month                           
+2025-08-26 15:01:40       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:01:40       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:01:52       User selects Last Month from the Top Account Names filter dropdown     Anwar           Top Account Names dashboard
+2025-08-26 15:01:52       Successfully captured screenshot: Donut_Chart_Last_Month                                         
+2025-08-26 15:01:52       Captured screenshot for passed step: user selects Last Month from the filter dropdown                           
+2025-08-26 15:01:52       Successfully captured screenshot: donut chart should be displayedLast_Month                           
+2025-08-26 15:01:52       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:01:52       Captured screenshot for passed step: donut chart should be displayedLast_Month                           
+2025-08-26 15:01:52       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:01:52       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:02:03       User selects This Quarter from the Top Account Names filter dropdown   Anwar           Top Account Names dashboard
+2025-08-26 15:02:03       Successfully captured screenshot: Donut_Chart_This_Quarter                                       
+2025-08-26 15:02:03       Captured screenshot for passed step: user selects This Quarter from the filter dropdown                           
+2025-08-26 15:02:03       Successfully captured screenshot: donut chart should be displayedThis_Quarter                           
+2025-08-26 15:02:03       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:02:03       Captured screenshot for passed step: donut chart should be displayedThis_Quarter                           
+2025-08-26 15:02:03       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:02:03       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:02:04       User selects Last Quarter from the Top Account Names filter dropdown   Anwar           Top Account Names dashboard
+2025-08-26 15:02:05       Successfully captured screenshot: Donut_Chart_Last_Quarter                                       
+2025-08-26 15:02:05       Captured screenshot for passed step: user selects Last Quarter from the filter dropdown                           
+2025-08-26 15:02:05       Successfully captured screenshot: donut chart should be displayedLast_Quarter                           
+2025-08-26 15:02:05       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:02:05       Captured screenshot for passed step: donut chart should be displayedLast_Quarter                           
+2025-08-26 15:02:05       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:02:05       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:02:06       User selects This Year from the Top Account Names filter dropdown      Anwar           Top Account Names dashboard
+2025-08-26 15:02:06       Successfully captured screenshot: Donut_Chart_This_Year                                          
+2025-08-26 15:02:06       Captured screenshot for passed step: user selects This Year from the filter dropdown                           
+2025-08-26 15:02:06       Successfully captured screenshot: donut chart should be displayedThis_Year                           
+2025-08-26 15:02:06       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:02:07       Captured screenshot for passed step: donut chart should be displayedThis_Year                           
+2025-08-26 15:02:07       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:02:07       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:02:08       User selects Last Year from the Top Account Names filter dropdown      Anwar           Top Account Names dashboard
+2025-08-26 15:02:08       Successfully captured screenshot: Donut_Chart_Last_Year                                          
+2025-08-26 15:02:08       Captured screenshot for passed step: user selects Last Year from the filter dropdown                           
+2025-08-26 15:02:08       Successfully captured screenshot: donut chart should be displayedLast_Year                           
+2025-08-26 15:02:08       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:02:08       Captured screenshot for passed step: donut chart should be displayedLast_Year                           
+2025-08-26 15:02:08       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:02:08       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:02:09       User selects Custom from the Top Account Names filter dropdown         Anwar           Top Account Names dashboard
+2025-08-26 15:02:10       Successfully captured screenshot: Donut_Chart_Custom                                             
+2025-08-26 15:02:10       Captured screenshot for passed step: user selects Custom from the filter dropdown                           
+2025-08-26 15:02:10       Successfully captured screenshot: donut chart should be displayedCustom                           
+2025-08-26 15:02:10       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:02:10       Captured screenshot for passed step: donut chart should be displayedCustom                           
+2025-08-26 15:02:10       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:02:10       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:02:11       User selects This Financial Year from the Top Account Names filter dropdown Anwar           Top Account Names dashboard
+2025-08-26 15:02:11       Successfully captured screenshot: Donut_Chart_This_Financial_Year                                
+2025-08-26 15:02:11       Captured screenshot for passed step: user selects This Financial Year from the filter dropdown                           
+2025-08-26 15:02:12       Successfully captured screenshot: donut chart should be displayedThis_Financial_Year                           
+2025-08-26 15:02:12       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:02:12       Captured screenshot for passed step: donut chart should be displayedThis_Financial_Year                           
+2025-08-26 15:02:12       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:02:12       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:02:13       User selects All Time from the Top Account Names filter dropdown       Anwar           Top Account Names dashboard
+2025-08-26 15:02:13       Successfully captured screenshot: Donut_Chart_All_Time                                           
+2025-08-26 15:02:13       Captured screenshot for passed step: user selects All Time from the filter dropdown                           
+2025-08-26 15:02:13       Successfully captured screenshot: donut chart should be displayedAll_Time                           
+2025-08-26 15:02:13       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:02:13       Captured screenshot for passed step: donut chart should be displayedAll_Time                           
+2025-08-26 15:02:13       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:02:13       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:02:13       Scenario Passed.                                                                                 
+2025-08-26 15:02:18       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:02:20       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:02:20       Successfully redirected to login page after logout.                                              
+2025-08-26 15:02:20       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:02:20       Browser closed.                                                                                  
+2025-08-26 15:02:25       Scenario:Verify Expenses "<Time Filter>" Flow donut chart displays correct data for selected time filter                           
+2025-08-26 15:02:25       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:02:25       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:02:27       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:02:27       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:02:29       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:02:29       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:02:29       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:02:29       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:02:32       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:02:32       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:02:32       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:02:33       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:02:46       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:02:46       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:02:56       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:02:56       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:02:57       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:02:57       user is on the Expenses Flow dashboard                                 Anwar           Capium365_Dashboard
+2025-08-26 15:02:57       Captured screenshot for passed step: user is on the Expenses Flow dashboard                           
+2025-08-26 15:02:58       user selects This Week from the filter dropdown                        Anwar           Expenses Flow dashboard
+2025-08-26 15:02:59       Captured screenshot for passed step: user selects Expenses Flow {string} from the filter dropdown                           
+2025-08-26 15:02:59       Successfully captured screenshot: donut chart should be displayedThis_Week                           
+2025-08-26 15:02:59       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:02:59       Captured screenshot for passed step: donut chart should be displayedThis_Week                           
+2025-08-26 15:02:59       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:02:59       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:03:00       user selects Last Week from the filter dropdown                        Anwar           Expenses Flow dashboard
+2025-08-26 15:03:00       Captured screenshot for passed step: user selects Expenses Flow {string} from the filter dropdown                           
+2025-08-26 15:03:00       Successfully captured screenshot: donut chart should be displayedLast_Week                           
+2025-08-26 15:03:00       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:03:00       Captured screenshot for passed step: donut chart should be displayedLast_Week                           
+2025-08-26 15:03:00       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:03:00       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:03:02       user selects This Month from the filter dropdown                       Anwar           Expenses Flow dashboard
+2025-08-26 15:03:02       Captured screenshot for passed step: user selects Expenses Flow {string} from the filter dropdown                           
+2025-08-26 15:03:02       Successfully captured screenshot: donut chart should be displayedThis_Month                           
+2025-08-26 15:03:02       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:03:02       Captured screenshot for passed step: donut chart should be displayedThis_Month                           
+2025-08-26 15:03:02       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:03:02       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:03:03       user selects Last Month from the filter dropdown                       Anwar           Expenses Flow dashboard
+2025-08-26 15:03:03       Captured screenshot for passed step: user selects Expenses Flow {string} from the filter dropdown                           
+2025-08-26 15:03:03       Successfully captured screenshot: donut chart should be displayedLast_Month                           
+2025-08-26 15:03:03       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:03:04       Captured screenshot for passed step: donut chart should be displayedLast_Month                           
+2025-08-26 15:03:04       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:03:04       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:03:05       user selects This Quarter from the filter dropdown                     Anwar           Expenses Flow dashboard
+2025-08-26 15:03:05       Captured screenshot for passed step: user selects Expenses Flow {string} from the filter dropdown                           
+2025-08-26 15:03:05       Successfully captured screenshot: donut chart should be displayedThis_Quarter                           
+2025-08-26 15:03:05       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:03:05       Captured screenshot for passed step: donut chart should be displayedThis_Quarter                           
+2025-08-26 15:03:05       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:03:05       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:03:06       user selects Last Quarter from the filter dropdown                     Anwar           Expenses Flow dashboard
+2025-08-26 15:03:06       Captured screenshot for passed step: user selects Expenses Flow {string} from the filter dropdown                           
+2025-08-26 15:03:07       Successfully captured screenshot: donut chart should be displayedLast_Quarter                           
+2025-08-26 15:03:07       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:03:07       Captured screenshot for passed step: donut chart should be displayedLast_Quarter                           
+2025-08-26 15:03:07       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:03:07       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:03:08       user selects This Year from the filter dropdown                        Anwar           Expenses Flow dashboard
+2025-08-26 15:03:08       Captured screenshot for passed step: user selects Expenses Flow {string} from the filter dropdown                           
+2025-08-26 15:03:08       Successfully captured screenshot: donut chart should be displayedThis_Year                           
+2025-08-26 15:03:08       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:03:08       Captured screenshot for passed step: donut chart should be displayedThis_Year                           
+2025-08-26 15:03:08       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:03:09       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:03:10       user selects Last Year from the filter dropdown                        Anwar           Expenses Flow dashboard
+2025-08-26 15:03:10       Captured screenshot for passed step: user selects Expenses Flow {string} from the filter dropdown                           
+2025-08-26 15:03:11       Successfully captured screenshot: donut chart should be displayedLast_Year                           
+2025-08-26 15:03:11       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:03:11       Captured screenshot for passed step: donut chart should be displayedLast_Year                           
+2025-08-26 15:03:11       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:03:11       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:03:13       user selects Custom from the filter dropdown                           Anwar           Expenses Flow dashboard
+2025-08-26 15:03:13       Captured screenshot for passed step: user selects Expenses Flow {string} from the filter dropdown                           
+2025-08-26 15:03:13       Successfully captured screenshot: donut chart should be displayedCustom                           
+2025-08-26 15:03:13       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:03:13       Captured screenshot for passed step: donut chart should be displayedCustom                           
+2025-08-26 15:03:13       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:03:13       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:03:14       user selects This Financial Year from the filter dropdown              Anwar           Expenses Flow dashboard
+2025-08-26 15:03:14       Captured screenshot for passed step: user selects Expenses Flow {string} from the filter dropdown                           
+2025-08-26 15:03:14       Successfully captured screenshot: donut chart should be displayedThis_Financial_Year                           
+2025-08-26 15:03:14       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:03:14       Captured screenshot for passed step: donut chart should be displayedThis_Financial_Year                           
+2025-08-26 15:03:14       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:03:15       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:03:16       user selects All Time from the filter dropdown                         Anwar           Expenses Flow dashboard
+2025-08-26 15:03:16       Captured screenshot for passed step: user selects Expenses Flow {string} from the filter dropdown                           
+2025-08-26 15:03:16       Successfully captured screenshot: donut chart should be displayedAll_Time                           
+2025-08-26 15:03:16       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:03:16       Captured screenshot for passed step: donut chart should be displayedAll_Time                           
+2025-08-26 15:03:16       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:03:16       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:03:16       Scenario Passed.                                                                                 
+2025-08-26 15:03:16       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:03:18       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:03:18       Successfully redirected to login page after logout.                                              
+2025-08-26 15:03:18       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:03:18       Browser closed.                                                                                  
+2025-08-26 15:03:32       Scenario:Verify Top Earners "<Time Filter>" donut chart displays correct data for selected time filter                           
+2025-08-26 15:03:32       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:03:32       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:03:34       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:03:34       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:03:35       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:03:36       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:03:36       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:03:36       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:03:39       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:03:39       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:03:39       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:03:39       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:03:52       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:03:52       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:04:02       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:04:03       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:04:03       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:04:13       Captured screenshot for failed step: Redirect to365 client                                       
+2025-08-26 15:04:13       Scenario Failed.                                                                                 
+2025-08-26 15:05:13       No logout element was clicked.                                                                   
+2025-08-26 15:05:13       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:05:13       Browser closed.                                                                                  
+2025-08-26 15:05:18       Scenario:Verify Sales Flow "<Time Filter>" donut chart displays correct data for selected time filter                           
+2025-08-26 15:05:18       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:05:18       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:05:20       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:05:21       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:05:22       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:05:22       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:05:22       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:05:22       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:05:26       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:05:26       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:05:26       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:05:26       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:05:39       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:05:39       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:05:49       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:05:49       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:05:49       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:05:50       user is on the Sales Flow dashboard                                    Anwar           Capium365_Dashboard
+2025-08-26 15:05:50       Captured screenshot for passed step: user is on the Sales Flow dashboard                           
+2025-08-26 15:05:51       user selects This Week from the filter dropdown                        Anwar           Expenses Flow dashboard
+2025-08-26 15:05:51       Captured screenshot for passed step: user selects Sales Flow {string} from the filter dropdown                           
+2025-08-26 15:05:51       Successfully captured screenshot: donut chart should be displayedThis_Week                           
+2025-08-26 15:05:51       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:05:51       Captured screenshot for passed step: donut chart should be displayedThis_Week                           
+2025-08-26 15:05:51       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:05:52       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:05:53       user selects Last Week from the filter dropdown                        Anwar           Expenses Flow dashboard
+2025-08-26 15:05:53       Captured screenshot for passed step: user selects Sales Flow {string} from the filter dropdown                           
+2025-08-26 15:05:53       Successfully captured screenshot: donut chart should be displayedLast_Week                           
+2025-08-26 15:05:53       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:05:53       Captured screenshot for passed step: donut chart should be displayedLast_Week                           
+2025-08-26 15:05:53       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:05:53       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:05:54       user selects This Month from the filter dropdown                       Anwar           Expenses Flow dashboard
+2025-08-26 15:05:54       Captured screenshot for passed step: user selects Sales Flow {string} from the filter dropdown                           
+2025-08-26 15:05:55       Successfully captured screenshot: donut chart should be displayedThis_Month                           
+2025-08-26 15:05:55       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:05:55       Captured screenshot for passed step: donut chart should be displayedThis_Month                           
+2025-08-26 15:05:55       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:05:55       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:05:56       user selects Last Month from the filter dropdown                       Anwar           Expenses Flow dashboard
+2025-08-26 15:05:56       Captured screenshot for passed step: user selects Sales Flow {string} from the filter dropdown                           
+2025-08-26 15:05:56       Successfully captured screenshot: donut chart should be displayedLast_Month                           
+2025-08-26 15:05:56       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:05:56       Captured screenshot for passed step: donut chart should be displayedLast_Month                           
+2025-08-26 15:05:56       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:05:56       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:05:57       user selects This Quarter from the filter dropdown                     Anwar           Expenses Flow dashboard
+2025-08-26 15:05:58       Captured screenshot for passed step: user selects Sales Flow {string} from the filter dropdown                           
+2025-08-26 15:05:58       Successfully captured screenshot: donut chart should be displayedThis_Quarter                           
+2025-08-26 15:05:58       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:05:58       Captured screenshot for passed step: donut chart should be displayedThis_Quarter                           
+2025-08-26 15:05:58       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:05:58       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:05:59       user selects Last Quarter from the filter dropdown                     Anwar           Expenses Flow dashboard
+2025-08-26 15:05:59       Captured screenshot for passed step: user selects Sales Flow {string} from the filter dropdown                           
+2025-08-26 15:05:59       Successfully captured screenshot: donut chart should be displayedLast_Quarter                           
+2025-08-26 15:05:59       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:05:59       Captured screenshot for passed step: donut chart should be displayedLast_Quarter                           
+2025-08-26 15:05:59       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:06:00       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:06:01       user selects This Year from the filter dropdown                        Anwar           Expenses Flow dashboard
+2025-08-26 15:06:01       Captured screenshot for passed step: user selects Sales Flow {string} from the filter dropdown                           
+2025-08-26 15:06:01       Successfully captured screenshot: donut chart should be displayedThis_Year                           
+2025-08-26 15:06:01       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:06:01       Captured screenshot for passed step: donut chart should be displayedThis_Year                           
+2025-08-26 15:06:01       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:06:01       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:06:03       user selects Last Year from the filter dropdown                        Anwar           Expenses Flow dashboard
+2025-08-26 15:06:03       Captured screenshot for passed step: user selects Sales Flow {string} from the filter dropdown                           
+2025-08-26 15:06:03       Successfully captured screenshot: donut chart should be displayedLast_Year                           
+2025-08-26 15:06:03       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:06:03       Captured screenshot for passed step: donut chart should be displayedLast_Year                           
+2025-08-26 15:06:03       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:06:04       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:06:05       user selects Custom from the filter dropdown                           Anwar           Expenses Flow dashboard
+2025-08-26 15:06:05       Captured screenshot for passed step: user selects Sales Flow {string} from the filter dropdown                           
+2025-08-26 15:06:06       Successfully captured screenshot: donut chart should be displayedCustom                           
+2025-08-26 15:06:06       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:06:06       Captured screenshot for passed step: donut chart should be displayedCustom                           
+2025-08-26 15:06:06       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:06:06       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:06:07       user selects This Financial Year from the filter dropdown              Anwar           Expenses Flow dashboard
+2025-08-26 15:06:07       Captured screenshot for passed step: user selects Sales Flow {string} from the filter dropdown                           
+2025-08-26 15:06:07       Successfully captured screenshot: donut chart should be displayedThis_Financial_Year                           
+2025-08-26 15:06:07       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:06:07       Captured screenshot for passed step: donut chart should be displayedThis_Financial_Year                           
+2025-08-26 15:06:07       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:06:07       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:06:09       user selects All Time from the filter dropdown                         Anwar           Expenses Flow dashboard
+2025-08-26 15:06:09       Captured screenshot for passed step: user selects Sales Flow {string} from the filter dropdown                           
+2025-08-26 15:06:09       Successfully captured screenshot: donut chart should be displayedAll_Time                           
+2025-08-26 15:06:09       donut chart should be displayed                                        Anwar           Top Account Names dashboard
+2025-08-26 15:06:09       Captured screenshot for passed step: donut chart should be displayedAll_Time                           
+2025-08-26 15:06:09       donut chart should contain valid account categories and values         Anwar           Top Account Names dashboard
+2025-08-26 15:06:09       Captured screenshot for passed step: donut chart should contain valid account categories and values                           
+2025-08-26 15:06:09       Scenario Passed.                                                                                 
+2025-08-26 15:06:09       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:06:11       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:06:11       Successfully redirected to login page after logout.                                              
+2025-08-26 15:06:11       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:06:11       Browser closed.                                                                                  
+2025-08-26 15:06:15       Scenario:Click + and Select "Invoices"                                                           
+2025-08-26 15:06:15       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:06:15       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:06:17       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:06:17       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:06:19       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:06:19       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:06:19       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:06:19       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:06:22       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:06:23       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:06:23       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:06:23       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:06:36       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:06:36       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:06:46       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:06:46       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:06:46       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:06:48       the user is on the dashboard                                           Anwar           Capium365_Dashboard
+2025-08-26 15:06:48       Captured screenshot for passed step: the user is on the dashboard                                
+2025-08-26 15:06:51       the user clicks on the + icon and selects Invoices                     Anwar           Capium365_Dashboard
+2025-08-26 15:06:51       Captured screenshot for passed step: the user clicks on the + icon and selects Invoices                           
+2025-08-26 15:06:52       Successfully captured screenshot: Add New Invoice                                                
+2025-08-26 15:06:52       Add New Invoice Screen Matched                                         Anwar           PlusButton
+2025-08-26 15:06:52       the Create New Invoice page should be displayed                        Anwar           Capium365_Dashboard
+2025-08-26 15:06:52       Captured screenshot for passed step: the Create New Invoice page should be displayed                           
+2025-08-26 15:06:54       the user is on the dashboard                                           Anwar           Capium365_Dashboard
+2025-08-26 15:06:54       Captured screenshot for passed step: the user is on the dashboard                                
+2025-08-26 15:06:57       the user clicks on the + icon and selects Recurring Invoices           Anwar           Capium365_Dashboard
+2025-08-26 15:06:57       Captured screenshot for passed step: the user clicks on the + icon and selects Recurring Invoices                           
+2025-08-26 15:06:57       Successfully captured screenshot: Add New Recurring Invoice                                      
+2025-08-26 15:06:57       Add New Recurring Invoice Screen Matched                               Anwar           PlusButton
+2025-08-26 15:06:57       the Create New Recurring Invoice form should open                      Anwar           Capium365_Dashboard
+2025-08-26 15:06:57       Captured screenshot for passed step: the Create New Recurring Invoice form should open                           
+2025-08-26 15:06:59       the user is on the dashboard                                           Anwar           Capium365_Dashboard
+2025-08-26 15:06:59       Captured screenshot for passed step: the user is on the dashboard                                
+2025-08-26 15:07:03       the user clicks on the + icon and selects Invoice Credit Notes         Anwar           Capium365_Dashboard
+2025-08-26 15:07:03       Captured screenshot for passed step: the user clicks on the + icon and selects Invoice Credit Notes                           
+2025-08-26 15:07:03       Successfully captured screenshot: Add New Invoice Credit Note                                    
+2025-08-26 15:07:03       Add New Invoice Credit Note Screen Matched                             Anwar           PlusButton
+2025-08-26 15:07:03       the Create Invoice Credit Note form should open                        Anwar           Capium365_Dashboard
+2025-08-26 15:07:03       Captured screenshot for passed step: the Create Invoice Credit Note form should open                           
+2025-08-26 15:07:05       the user is on the dashboard                                           Anwar           Capium365_Dashboard
+2025-08-26 15:07:05       Captured screenshot for passed step: the user is on the dashboard                                
+2025-08-26 15:07:08       the user clicks on the + icon and selects Estimates                    Anwar           Capium365_Dashboard
+2025-08-26 15:07:08       Captured screenshot for passed step: the user clicks on the + icon and selects Estimates                           
+2025-08-26 15:07:08       Successfully captured screenshot: Add New Estimate                                               
+2025-08-26 15:07:08       Add New Estimate Screen Matched                                        Anwar           PlusButton
+2025-08-26 15:07:08       the Create Estimate form should be displayed                           Anwar           Capium365_Dashboard
+2025-08-26 15:07:08       Captured screenshot for passed step: the Create Estimate form should be displayed                           
+2025-08-26 15:07:11       the user is on the dashboard                                           Anwar           Capium365_Dashboard
+2025-08-26 15:07:11       Captured screenshot for passed step: the user is on the dashboard                                
+2025-08-26 15:07:14       the user clicks on the + icon and selects Products                     Anwar           Capium365_Dashboard
+2025-08-26 15:07:14       Captured screenshot for passed step: the user clicks on the + icon and selects Products                           
+2025-08-26 15:07:14       Successfully captured screenshot: Add New Product                                                
+2025-08-26 15:07:14       Add New Product Screen Matched                                         Anwar           PlusButton
+2025-08-26 15:07:14       the Add New Product form should be displayed                           Anwar           Capium365_Dashboard
+2025-08-26 15:07:14       Captured screenshot for passed step: the Add New Product form should be displayed                           
+2025-08-26 15:07:16       the user is on the dashboard                                           Anwar           Capium365_Dashboard
+2025-08-26 15:07:16       Captured screenshot for passed step: the user is on the dashboard                                
+2025-08-26 15:07:19       the user clicks on the + icon and selects Customers                    Anwar           Capium365_Dashboard
+2025-08-26 15:07:19       Captured screenshot for passed step: the user clicks on the + icon and selects Customers                           
+2025-08-26 15:07:19       Successfully captured screenshot: Add New Customer                                               
+2025-08-26 15:07:19       Add New Customer Screen Matched                                        Anwar           PlusButton
+2025-08-26 15:07:19       the Add New Customer form should be displayed                          Anwar           Capium365_Dashboard
+2025-08-26 15:07:20       Captured screenshot for passed step: the Add New Customer form should be displayed                           
+2025-08-26 15:07:22       the user is on the dashboard                                           Anwar           Capium365_Dashboard
+2025-08-26 15:07:22       Captured screenshot for passed step: the user is on the dashboard                                
+2025-08-26 15:07:25       the user clicks on the + icon and selects Receipts                     Anwar           Capium365_Dashboard
+2025-08-26 15:07:25       Captured screenshot for passed step: the user clicks on the + icon and selects Receipts                           
+2025-08-26 15:07:25       Successfully captured screenshot: Receipts Screen                                                
+2025-08-26 15:07:25       the Record Receipt screen should be displayed                          Anwar           Capium365_Dashboard
+2025-08-26 15:07:25       Captured screenshot for passed step: the Record Receipt screen should be displayed                           
+2025-08-26 15:07:27       the user is on the dashboard                                           Anwar           Capium365_Dashboard
+2025-08-26 15:07:28       Captured screenshot for passed step: the user is on the dashboard                                
+2025-08-26 15:07:31       the user clicks on the + icon and selects Purchase Invoices            Anwar           Capium365_Dashboard
+2025-08-26 15:07:31       Captured screenshot for passed step: the user clicks on the + icon and selects Purchase Invoices                           
+2025-08-26 15:07:31       Successfully captured screenshot: Purchase Invoices Screen                                       
+2025-08-26 15:07:31       the Create Purchase Invoice form should open                           Anwar           Capium365_Dashboard
+2025-08-26 15:07:31       Captured screenshot for passed step: the Create Purchase Invoice form should open                           
+2025-08-26 15:07:33       the user is on the dashboard                                           Anwar           Capium365_Dashboard
+2025-08-26 15:07:34       Captured screenshot for passed step: the user is on the dashboard                                
+2025-08-26 15:07:37       the user clicks on the + icon and selects Purchase Credit Notes        Anwar           Capium365_Dashboard
+2025-08-26 15:07:37       Captured screenshot for passed step: the user clicks on the + icon and selects Purchase Credit Notes                           
+2025-08-26 15:07:37       Successfully captured screenshot: Purchase Credit Notes                                          
+2025-08-26 15:07:37       the Create Purchase Credit Note page should open                       Anwar           Capium365_Dashboard
+2025-08-26 15:07:37       Captured screenshot for passed step: the Create Purchase Credit Note page should open                           
+2025-08-26 15:07:39       the user is on the dashboard                                           Anwar           Capium365_Dashboard
+2025-08-26 15:07:39       Captured screenshot for passed step: the user is on the dashboard                                
+2025-08-26 15:07:42       the user clicks on the + icon and selects Suppliers                    Anwar           Capium365_Dashboard
+2025-08-26 15:07:42       Captured screenshot for passed step: the user clicks on the + icon and selects Suppliers                           
+2025-08-26 15:07:43       Successfully captured screenshot: Add New Supplier                                               
+2025-08-26 15:07:43       Add New Supplier Screen Matched                                        Anwar           PlusButton
+2025-08-26 15:07:43       the Add Supplier form should open                                      Anwar           Capium365_Dashboard
+2025-08-26 15:07:43       Captured screenshot for passed step: the Add Supplier form should open                           
+2025-08-26 15:07:45       the user is on the dashboard                                           Anwar           Capium365_Dashboard
+2025-08-26 15:07:45       Captured screenshot for passed step: the user is on the dashboard                                
+2025-08-26 15:07:48       the user clicks on the + icon and selects Users                        Anwar           Capium365_Dashboard
+2025-08-26 15:07:48       Captured screenshot for passed step: the user clicks on the + icon and selects Users                           
+2025-08-26 15:07:48       Successfully captured screenshot: Add New User                                                   
+2025-08-26 15:07:48       Add New User Screen Matched                                            Anwar           PlusButton
+2025-08-26 15:07:48       the Add New User screen should be displayed                            Anwar           Capium365_Dashboard
+2025-08-26 15:07:48       Captured screenshot for passed step: the Add New User screen should be displayed                           
+2025-08-26 15:07:51       the user is on the dashboard                                           Anwar           Capium365_Dashboard
+2025-08-26 15:07:51       Captured screenshot for passed step: the user is on the dashboard                                
+2025-08-26 15:07:54       the user clicks on the + icon and selects Bank Accounts                Anwar           Capium365_Dashboard
+2025-08-26 15:07:54       Captured screenshot for passed step: the user clicks on the + icon and selects Bank Accounts                           
+2025-08-26 15:07:54       Successfully captured screenshot: Add New Account                                                
+2025-08-26 15:07:54       Add New Account Screen Matched                                         Anwar           PlusButton
+2025-08-26 15:07:54       the Add Bank Account form should be displayed                          Anwar           Capium365_Dashboard
+2025-08-26 15:07:54       Captured screenshot for passed step: the Add Bank Account form should be displayed                           
+2025-08-26 15:07:54       Scenario Passed.                                                                                 
+2025-08-26 15:07:54       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:07:56       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:07:56       Successfully redirected to login page after logout.                                              
+2025-08-26 15:07:56       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:07:56       Browser closed.                                                                                  
+2025-08-26 15:08:02       Scenario:Default filter selection on Activity tab                                                
+2025-08-26 15:08:02       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:08:02       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:08:04       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:08:04       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:08:05       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:08:05       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:08:05       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:08:06       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:08:09       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:08:09       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:08:09       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:08:09       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:08:22       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:08:22       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:08:32       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:08:32       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:08:33       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:08:38       the user is on the Activity tab                                        Anwar           Capium365_Dashboard
+2025-08-26 15:08:38       Captured screenshot for passed step: the user is on the Activity tab                             
+2025-08-26 15:08:39       Allshould be selected in the time filter dropdown                      Anwar           Activity  
+2025-08-26 15:08:39       Captured screenshot for passed step: All should be selected by default in the category dropdown                           
+2025-08-26 15:08:40       This Monthshould be selected in the time filter dropdown               Anwar           Activity  
+2025-08-26 15:08:41       Captured screenshot for passed step: This Month should be selected in the time filter dropdown                           
+2025-08-26 15:08:41       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:08:41       all activity logs for this month should be visible                     Anwar           Activity  
+2025-08-26 15:08:41       Captured screenshot for passed step: all activity logs for this month should be visible                           
+2025-08-26 15:08:41       Scenario Passed.                                                                                 
+2025-08-26 15:08:42       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:08:43       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:08:43       Successfully redirected to login page after logout.                                              
+2025-08-26 15:08:43       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:08:43       Browser closed.                                                                                  
+2025-08-26 15:08:57       Scenario:Filter Activity by "All Invoices"                                                       
+2025-08-26 15:08:57       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:08:57       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:08:59       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:09:00       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:09:01       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:09:01       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:09:01       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:09:01       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:09:05       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:09:05       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:09:05       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:09:05       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:09:18       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:09:18       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:09:28       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:09:28       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:09:28       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:09:33       the user is on the Activity tab                                        Anwar           Capium365_Dashboard
+2025-08-26 15:09:34       Captured screenshot for passed step: the user is on the Activity tab                             
+2025-08-26 15:09:35       All Invoicesshould be selected by default in the category dropdown     Anwar           Activity  
+2025-08-26 15:09:35       Captured screenshot for passed step: the user selects All Invoices from the category dropdown                           
+2025-08-26 15:09:35       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:09:35       only activity logs related to invoices should be shown                 Anwar           Activity  
+2025-08-26 15:09:35       Captured screenshot for passed step: only activity logs related to invoices should be shown                           
+2025-08-26 15:09:36       All Receiptsshould be selected by default in the category dropdown     Anwar           Activity  
+2025-08-26 15:09:36       Captured screenshot for passed step: the user selects All Receipts All Receipts from the category dropdown                           
+2025-08-26 15:09:36       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:09:36       only receipt-related logs should be displayed                          Anwar           Activity  
+2025-08-26 15:09:37       Captured screenshot for passed step: only receipt-related logs should be displayed                           
+2025-08-26 15:09:38       All Estimatesshould be selected by default in the category dropdown    Anwar           Activity  
+2025-08-26 15:09:38       Captured screenshot for passed step: the user selects All Estimates All Estimates from the category dropdown                           
+2025-08-26 15:09:38       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:09:38       the activity log should display only estimate-related actions          Anwar           Activity  
+2025-08-26 15:09:38       Captured screenshot for passed step: the activity log should display only estimate-related actions                           
+2025-08-26 15:09:39       All Productsshould be selected by default in the category dropdown     Anwar           Activity  
+2025-08-26 15:09:39       Captured screenshot for passed step: the user selects All Products All Products                           
+2025-08-26 15:09:39       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:09:39       activity logs related to product creation, update or delete should appear Anwar           Activity  
+2025-08-26 15:09:39       Captured screenshot for passed step: activity logs related to product creation, update or delete should appear                           
+2025-08-26 15:09:40       All Customersshould be selected by default in the category dropdown    Anwar           Activity  
+2025-08-26 15:09:41       Captured screenshot for passed step: the user selects All Customers All Customers                           
+2025-08-26 15:09:41       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:09:41       only logs showing customer actions e.g.add,edit,delete should be visible Anwar           Activity  
+2025-08-26 15:09:41       Captured screenshot for passed step: only logs showing customer actions e.g.add,edit,delete should be visible                           
+2025-08-26 15:09:42       All Suppliersshould be selected by default in the category dropdown    Anwar           Activity  
+2025-08-26 15:09:42       Captured screenshot for passed step: the user selects All Suppliers All Suppliers                           
+2025-08-26 15:09:42       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:09:42       supplier-related log entries should be visible in the activity feed    Anwar           Activity  
+2025-08-26 15:09:42       Captured screenshot for passed step: supplier-related log entries should be visible in the activity feed                           
+2025-08-26 15:09:43       All Usersshould be selected by default in the category dropdown        Anwar           Activity  
+2025-08-26 15:09:43       Captured screenshot for passed step: the user selects All Users All Users                           
+2025-08-26 15:09:44       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:09:44       actions such as create, restore, archive users should be listed        Anwar           Activity  
+2025-08-26 15:09:44       Captured screenshot for passed step: actions such as create, restore, archive users should be listed                           
+2025-08-26 15:09:45       All Invoice Credit Notesshould be selected by default in the category dropdown Anwar           Activity  
+2025-08-26 15:09:45       Captured screenshot for passed step: the user selects All Invoice Credit Notes All Invoice Credit Notes                           
+2025-08-26 15:09:45       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:09:45       only related logs should be displayed                                  Anwar           Activity  
+2025-08-26 15:09:45       Captured screenshot for passed step: only related logs should be displayed                           
+2025-08-26 15:09:46       All Purchasesthe user selects All Purchases                            Anwar           Activity  
+2025-08-26 15:09:46       Captured screenshot for passed step: the user selects All Purchases All Purchases                           
+2025-08-26 15:09:46       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:09:46       logs related to purchase invoices should be shown                      Anwar           Activity  
+2025-08-26 15:09:46       Captured screenshot for passed step: logs related to purchase invoices should be shown                           
+2025-08-26 15:09:48       All Purchase Credit Notesthe user selects All Purchase Credit Notes {string} Anwar           Activity  
+2025-08-26 15:09:48       Captured screenshot for passed step: the user selects All Purchase Credit Notes All Purchase Credit Notes                           
+2025-08-26 15:09:48       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:09:48       display only relevant purchase credit note activity                    Anwar           Activity  
+2025-08-26 15:09:48       Captured screenshot for passed step: display only relevant purchase credit note activity                           
+2025-08-26 15:09:49       All Sourcesthe user selects All Sources {string}                       Anwar           Activity  
+2025-08-26 15:09:49       Captured screenshot for passed step: the user selects All Sources All Sources                           
+2025-08-26 15:09:49       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:09:49       display logs regarding external or internal source interactions \(if applicable) Anwar           Activity  
+2025-08-26 15:09:49       Captured screenshot for passed step: display logs regarding external or internal source interactions \(if applicable)                           
+2025-08-26 15:09:50       All Book Bank Rulesthe user selects All Book Bank Rules {string}       Anwar           Activity  
+2025-08-26 15:09:51       Captured screenshot for passed step: the user selects All Book Bank Rules All Book Bank Rules                           
+2025-08-26 15:09:51       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:09:51       all logs related to book bank rules should be shown                    Anwar           Activity  
+2025-08-26 15:09:51       Captured screenshot for passed step: all logs related to book bank rules should be shown                           
+2025-08-26 15:09:52       All Bankfeed Bank Rulesthe user selects All Bankfeed Bank Rules {string} Anwar           Activity  
+2025-08-26 15:09:52       Captured screenshot for passed step: the user selects All Bankfeed Bank Rules All Bankfeed Bank Rules                           
+2025-08-26 15:09:52       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:09:52       only logs for bankfeed rule creation or updates should be displayed    Anwar           Activity  
+2025-08-26 15:09:52       Captured screenshot for passed step: only logs for bankfeed rule creation or updates should be displayed                           
+2025-08-26 15:09:55       the user types a keyword like {string} in the search bar               Anwar           Activity  
+2025-08-26 15:09:55       Captured screenshot for passed step: the user types a keyword like user1 in the search bar                           
+2025-08-26 15:09:55       Successfully captured screenshot: Activity                                                       
+2025-08-26 15:09:55       all logs containing that keyword in user\/action should be shown       Anwar           Activity  
+2025-08-26 15:09:55       Captured screenshot for passed step: all logs containing that keyword in user\/action should be shown                           
+2025-08-26 15:09:56       Captured screenshot for passed step: the user selects a category\/time filter combination with no data                           
+2025-08-26 15:09:56       Captured screenshot for passed step: an empty state message like No activity found should be displayed                           
+2025-08-26 15:09:56       Scenario Passed.                                                                                 
+2025-08-26 15:09:56       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:09:57       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:09:57       Successfully redirected to login page after logout.                                              
+2025-08-26 15:09:57       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:09:57       Browser closed.                                                                                  
+2025-08-26 15:10:02       Scenario:Verify activity logs are filtered correctly by time range                               
+2025-08-26 15:10:02       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:10:02       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:10:04       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:10:05       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:10:06       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:10:06       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:10:06       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:10:06       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:10:10       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:10:10       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:10:10       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:10:10       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:10:23       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:10:23       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:10:33       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:10:33       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:10:33       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:10:38       the user is on the Activity tab                                        Anwar           Capium365_Dashboard
+2025-08-26 15:10:38       Captured screenshot for passed step: the user is on the Activity tab                             
+2025-08-26 15:10:40       user selectsThis Weekfrom the Activity time filter dropdown            Anwar           This Week 
+2025-08-26 15:10:40       Captured screenshot for passed step: user selects This Week from the Activity time filter dropdown                           
+2025-08-26 15:10:40       activity logs should be displayed forThis Week                         Anwar           This Week 
+2025-08-26 15:10:40       Successfully captured screenshot: This Week                                                      
+2025-08-26 15:10:40       Captured screenshot for passed step: activity logs should be displayed for This Week                           
+2025-08-26 15:10:41       user selectsLast Weekfrom the Activity time filter dropdown            Anwar           Last Week 
+2025-08-26 15:10:41       Captured screenshot for passed step: user selects Last Week from the Activity time filter dropdown                           
+2025-08-26 15:10:41       activity logs should be displayed forLast Week                         Anwar           Last Week 
+2025-08-26 15:10:41       Successfully captured screenshot: Last Week                                                      
+2025-08-26 15:10:41       Captured screenshot for passed step: activity logs should be displayed for Last Week                           
+2025-08-26 15:10:43       user selectsThis Monthfrom the Activity time filter dropdown           Anwar           This Month
+2025-08-26 15:10:43       Captured screenshot for passed step: user selects This Month from the Activity time filter dropdown                           
+2025-08-26 15:10:43       activity logs should be displayed forThis Month                        Anwar           This Month
+2025-08-26 15:10:43       Successfully captured screenshot: This Month                                                     
+2025-08-26 15:10:43       Captured screenshot for passed step: activity logs should be displayed for This Month                           
+2025-08-26 15:10:44       user selectsLast Monthfrom the Activity time filter dropdown           Anwar           Last Month
+2025-08-26 15:10:45       Captured screenshot for passed step: user selects Last Month from the Activity time filter dropdown                           
+2025-08-26 15:10:45       activity logs should be displayed forLast Month                        Anwar           Last Month
+2025-08-26 15:10:45       Successfully captured screenshot: Last Month                                                     
+2025-08-26 15:10:45       Captured screenshot for passed step: activity logs should be displayed for Last Month                           
+2025-08-26 15:10:46       user selectsThis Quarterfrom the Activity time filter dropdown         Anwar           This Quarter
+2025-08-26 15:10:46       Captured screenshot for passed step: user selects This Quarter from the Activity time filter dropdown                           
+2025-08-26 15:10:46       activity logs should be displayed forThis Quarter                      Anwar           This Quarter
+2025-08-26 15:10:46       Successfully captured screenshot: This Quarter                                                   
+2025-08-26 15:10:46       Captured screenshot for passed step: activity logs should be displayed for This Quarter                           
+2025-08-26 15:10:48       user selectsLast Quarterfrom the Activity time filter dropdown         Anwar           Last Quarter
+2025-08-26 15:10:48       Captured screenshot for passed step: user selects Last Quarter from the Activity time filter dropdown                           
+2025-08-26 15:10:48       activity logs should be displayed forLast Quarter                      Anwar           Last Quarter
+2025-08-26 15:10:48       Successfully captured screenshot: Last Quarter                                                   
+2025-08-26 15:10:48       Captured screenshot for passed step: activity logs should be displayed for Last Quarter                           
+2025-08-26 15:10:49       user selectsThis Yearfrom the Activity time filter dropdown            Anwar           This Year 
+2025-08-26 15:10:49       Captured screenshot for passed step: user selects This Year from the Activity time filter dropdown                           
+2025-08-26 15:10:49       activity logs should be displayed forThis Year                         Anwar           This Year 
+2025-08-26 15:10:49       Successfully captured screenshot: This Year                                                      
+2025-08-26 15:10:50       Captured screenshot for passed step: activity logs should be displayed for This Year                           
+2025-08-26 15:10:51       user selectsLast Yearfrom the Activity time filter dropdown            Anwar           Last Year 
+2025-08-26 15:10:51       Captured screenshot for passed step: user selects Last Year from the Activity time filter dropdown                           
+2025-08-26 15:10:51       activity logs should be displayed forLast Year                         Anwar           Last Year 
+2025-08-26 15:10:51       Successfully captured screenshot: Last Year                                                      
+2025-08-26 15:10:51       Captured screenshot for passed step: activity logs should be displayed for Last Year                           
+2025-08-26 15:10:52       user selectsCustomfrom the Activity time filter dropdown               Anwar           Custom    
+2025-08-26 15:10:52       Captured screenshot for passed step: user selects Custom from the Activity time filter dropdown                           
+2025-08-26 15:10:52       activity logs should be displayed forCustom                            Anwar           Custom    
+2025-08-26 15:10:52       Successfully captured screenshot: Custom                                                         
+2025-08-26 15:10:53       Captured screenshot for passed step: activity logs should be displayed for Custom                           
+2025-08-26 15:10:54       user selectsThis Financial Yearfrom the Activity time filter dropdown  Anwar           This Financial Year
+2025-08-26 15:10:54       Captured screenshot for passed step: user selects This Financial Year from the Activity time filter dropdown                           
+2025-08-26 15:10:54       activity logs should be displayed forThis Financial Year               Anwar           This Financial Year
+2025-08-26 15:10:54       Successfully captured screenshot: This Financial Year                                            
+2025-08-26 15:10:54       Captured screenshot for passed step: activity logs should be displayed for This Financial Year                           
+2025-08-26 15:10:55       user selectsAll Timefrom the Activity time filter dropdown             Anwar           All Time  
+2025-08-26 15:10:56       Captured screenshot for passed step: user selects All Time from the Activity time filter dropdown                           
+2025-08-26 15:10:56       activity logs should be displayed forAll Time                          Anwar           All Time  
+2025-08-26 15:10:56       Successfully captured screenshot: All Time                                                       
+2025-08-26 15:10:56       Captured screenshot for passed step: activity logs should be displayed for All Time                           
+2025-08-26 15:10:56       Scenario Passed.                                                                                 
+2025-08-26 15:10:56       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:10:57       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:10:57       Successfully redirected to login page after logout.                                              
+2025-08-26 15:10:57       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:10:58       Browser closed.                                                                                  
+2025-08-26 15:11:02       Scenario:Add a new bank under My Business settings                                               
+2025-08-26 15:11:02       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:11:02       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:11:04       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:11:04       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:11:05       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:11:06       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:11:06       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:11:06       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:11:09       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:11:09       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:11:09       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:11:09       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:11:23       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:11:23       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:11:33       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:11:33       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:11:33       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:11:33       the user clicks on the Settings icon                                   Anwar           Settings Tab
+2025-08-26 15:11:33       Captured screenshot for passed step: the user clicks on the Settings icon                           
+2025-08-26 15:11:33       the user selectsMy Businessfrom the Settings dropdown                  Anwar           Settings Tab
+2025-08-26 15:11:33       Captured screenshot for passed step: the user selects My Business from the Settings dropdown                           
+2025-08-26 15:11:38       the user clicks \"Add New Line\" under Bank Details                    Anwar           Settings Tab
+2025-08-26 15:11:38       Captured screenshot for passed step: the user clicks Add New Line under Bank Details                           
+2025-08-26 15:11:41       the user fills in the new bank details                                 Anwar           Settings Tab
+2025-08-26 15:11:42       Captured screenshot for passed step: the user fills in the new bank details                           
+2025-08-26 15:11:42       Successfully captured screenshot: Settings Tab                                                   
+2025-08-26 15:11:42       the new bank details should be saved successfully                      Anwar           Settings Tab
+2025-08-26 15:11:42       Captured screenshot for passed step: the new bank details should be saved successfully                           
+2025-08-26 15:11:42       Scenario Passed.                                                                                 
+2025-08-26 15:11:42       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:11:44       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:11:44       Successfully redirected to login page after logout.                                              
+2025-08-26 15:11:44       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:11:44       Browser closed.                                                                                  
+2025-08-26 15:11:48       Scenario:Verify Announcement tab in dashborad                                                    
+2025-08-26 15:11:48       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:11:48       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:11:50       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:11:50       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:11:51       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:11:51       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:11:51       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:11:51       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:11:55       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:11:55       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:11:55       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:11:55       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:12:08       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:12:08       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:12:18       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:12:18       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:12:19       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:12:19       User on dashboard and selects Announcement tab                         Anwar           Announcement Tab
+2025-08-26 15:12:19       Captured screenshot for passed step: User on dashboard and selects Announcement tab                           
+2025-08-26 15:12:19       user redirect to Announcement tab and verify any announcements is avilaible Anwar           Announcement Tab
+2025-08-26 15:12:19       Successfully captured screenshot: Announcement Tab                                               
+2025-08-26 15:12:19       Captured screenshot for passed step: user redirect to Announcement tab and verify any announcements is avilaible                           
+2025-08-26 15:12:19       Scenario Passed.                                                                                 
+2025-08-26 15:12:19       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:12:21       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:12:21       Successfully redirected to login page after logout.                                              
+2025-08-26 15:12:21       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:12:21       Browser closed.                                                                                  
+2025-08-26 15:12:25       Scenario:Verify essential UI elements are present                                                
+2025-08-26 15:12:25       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:12:25       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:12:27       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:12:28       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:12:29       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:12:29       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:12:29       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:12:29       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:12:33       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:12:33       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:12:33       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:12:33       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:12:47       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:12:47       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:12:57       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:12:57       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:12:57       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:12:59       the user is on the Support Ticket tab                                  Anwar           Tickets Tab
+2025-08-26 15:12:59       Captured screenshot for passed step: the user is on the Support Ticket tab                           
+2025-08-26 15:12:59       the Add Support Ticket button should be visible                        Anwar           Tickets Tab
+2025-08-26 15:12:59       Captured screenshot for passed step: the Add Support Ticket button should be visible                           
+2025-08-26 15:12:59       the search bar should be visible                                       Anwar           Tickets Tab
+2025-08-26 15:12:59       Captured screenshot for passed step: the search bar should be visible                            
+2025-08-26 15:13:00       the Open filter dropdown should be visible                             Anwar           Tickets Tab
+2025-08-26 15:13:00       Captured screenshot for passed step: the Open filter dropdown should be visible                           
+2025-08-26 15:13:00       the ticket table should display the columns Ticket No., Subject, Created on, Status, and Department Anwar           Tickets Tab
+2025-08-26 15:13:00       Captured screenshot for passed step: the ticket table should display the columns Ticket No., Subject, Created on, Status, and Department                           
+2025-08-26 15:13:00       Scenario Passed.                                                                                 
+2025-08-26 15:13:00       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:13:01       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:13:01       Successfully redirected to login page after logout.                                              
+2025-08-26 15:13:01       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:13:02       Browser closed.                                                                                  
+2025-08-26 15:13:05       Scenario:Add a new support ticket                                                                
+2025-08-26 15:13:05       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:13:06       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:13:08       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:13:08       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:13:09       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:13:09       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:13:09       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:13:09       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:13:13       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:13:13       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:13:13       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:13:13       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:13:26       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:13:26       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:13:36       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:13:36       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:13:36       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:13:39       the user is on the Support Ticket tab                                  Anwar           Tickets Tab
+2025-08-26 15:13:39       Captured screenshot for passed step: the user is on the Support Ticket tab                           
+2025-08-26 15:13:41       the user clicks on the Add Support Ticket button                       Anwar           Tickets Tab
+2025-08-26 15:13:41       Captured screenshot for passed step: the user clicks on the Add Support Ticket button                           
+2025-08-26 15:13:51       the user enters valid ticket details                                   Anwar           Tickets Tab
+2025-08-26 15:13:51       Captured screenshot for passed step: the user enters valid ticket details                           
+2025-08-26 15:13:52       Captured screenshot for passed step: clicks the Submit button                                    
+2025-08-26 15:13:52       Captured screenshot for passed step: a new ticket should be created                              
+2025-08-26 15:13:52       Captured screenshot for passed step: it should appear in the list under the Open status                           
+2025-08-26 15:13:52       Scenario Passed.                                                                                 
+2025-08-26 15:13:57       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:13:58       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:13:58       Successfully redirected to login page after logout.                                              
+2025-08-26 15:13:58       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:13:58       Browser closed.                                                                                  
+2025-08-26 15:14:02       Scenario:Verify Help tab in dashboard                                                            
+2025-08-26 15:14:02       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:14:02       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:14:04       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:14:05       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:14:06       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:14:06       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:14:06       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:14:06       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:14:10       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:14:10       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:14:10       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:14:10       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:14:23       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:14:23       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:14:33       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:14:33       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:14:33       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:14:36       User on the dashboard and selects help tab                             Anwar           Tickets Tab
+2025-08-26 15:14:37       Captured screenshot for passed step: User on the dashboard and selects help tab                           
+2025-08-26 15:14:37       Successfully captured screenshot: Help Tab                                                       
+2025-08-26 15:14:37       user should redirect to help information page                          Anwar           Tickets Tab
+2025-08-26 15:14:37       Captured screenshot for passed step: user should redirect to help information page                           
+2025-08-26 15:14:37       Scenario Passed.                                                                                 
+2025-08-26 15:14:37       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:14:38       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:14:39       Successfully redirected to login page after logout.                                              
+2025-08-26 15:14:39       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:14:39       Browser closed.                                                                                  
+2025-08-26 15:14:43       Scenario:Open profile popup                                                                      
+2025-08-26 15:14:43       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:14:43       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:14:45       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:14:45       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:14:47       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:14:47       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:14:47       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:14:47       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:14:51       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:14:51       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:14:51       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:14:51       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:15:04       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:15:04       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:15:14       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:15:14       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:15:14       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:15:14       the user is in Dashboard page                                          Anwar           Profile Tab
+2025-08-26 15:15:14       Captured screenshot for passed step: the user is in Dashboard page                               
+2025-08-26 15:15:17       the user clicks the profile icon at the top-right corner               Anwar           Profile Tab
+2025-08-26 15:15:17       Captured screenshot for passed step: the user clicks the profile icon at the top-right corner                           
+2025-08-26 15:15:17       Successfully captured screenshot: Profile Tab                                                    
+2025-08-26 15:15:17       a profile popup should be displayed                                    Anwar           Profile Tab
+2025-08-26 15:15:17       Captured screenshot for passed step: a profile popup should be displayed                           
+2025-08-26 15:15:17       it should contain user initials, location, user ID, and email          Anwar           Profile Tab
+2025-08-26 15:15:17       Captured screenshot for passed step: it should contain user initials, location, user ID, and email                           
+2025-08-26 15:15:17       it should display a Sign Out button                                    Anwar           Profile Tab
+2025-08-26 15:15:17       Captured screenshot for passed step: it should display a Sign Out button                           
+2025-08-26 15:15:17       it should display a color palette for theme selection                  Anwar           Profile Tab
+2025-08-26 15:15:17       Captured screenshot for passed step: it should display a color palette for theme selection                           
+2025-08-26 15:15:19       the user clicks the profile icon at the top-right corner               Anwar           Profile Tab
+2025-08-26 15:15:19       Captured screenshot for passed step: the user clicks the profile icon at the top-right corner                           
+2025-08-26 15:15:19       Scenario Passed.                                                                                 
+2025-08-26 15:15:19       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:15:21       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:15:21       Successfully redirected to login page after logout.                                              
+2025-08-26 15:15:21       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:15:21       Browser closed.                                                                                  
+2025-08-26 15:15:25       Scenario:Sign out using the profile popup                                                        
+2025-08-26 15:15:25       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:15:25       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:15:27       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:15:27       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:15:28       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:15:29       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:15:29       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:15:29       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:15:32       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:15:32       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:15:32       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:15:32       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:15:45       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:15:45       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:15:55       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:15:56       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:15:56       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:15:58       the profile popup is open                                              Anwar           Profile Tab
+2025-08-26 15:15:58       Captured screenshot for passed step: the profile popup is open                                   
+2025-08-26 15:15:59       the user clicks the Sign Out button                                    Anwar           Profile Tab
+2025-08-26 15:15:59       Captured screenshot for passed step: the user clicks the Sign Out button                           
+2025-08-26 15:15:59       Successfully captured screenshot: the user should be logged out                                  
+2025-08-26 15:15:59       the user should be logged out                                          Anwar           Profile Tab
+2025-08-26 15:16:00       Captured screenshot for passed step: the user should be logged out                               
+2025-08-26 15:16:00       User successfully logged out and redirected to login screen.                                     
+2025-08-26 15:16:00       the login page should be displayed                                     Anwar           Profile Tab
+2025-08-26 15:16:00       Captured screenshot for passed step: the login page should be displayed                           
+2025-08-26 15:16:00       Scenario Passed.                                                                                 
+2025-08-26 15:17:00       No logout element was clicked.                                                                   
+2025-08-26 15:17:00       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:17:00       Browser closed.                                                                                  
+2025-08-26 15:17:05       Scenario:Select a different theme color "Purple"                                                 
+2025-08-26 15:17:05       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:17:05       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:17:07       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:17:07       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:17:09       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:17:09       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:17:09       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:17:09       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:17:13       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:17:13       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:17:13       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:17:13       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:17:26       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:17:26       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:17:36       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:17:37       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:17:37       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:17:39       the profile popup is open                                              Anwar           Profile Tab
+2025-08-26 15:17:39       Captured screenshot for passed step: the profile popup is open                                   
+2025-08-26 15:17:39       Captured screenshot for passed step: the user selects the Purple from the palette                           
+2025-08-26 15:17:39       Successfully captured screenshot: the application theme should change toPurple                           
+2025-08-26 15:17:39       the application theme should change to Purple                          Anwar           Profile Tab
+2025-08-26 15:17:39       Captured screenshot for passed step: the application theme should change to Purple                           
+2025-08-26 15:17:39       the selected theme color should be highlighted                         Anwar           Profile Tab
+2025-08-26 15:17:39       Captured screenshot for passed step: the selected theme color should be highlighted                           
+2025-08-26 15:17:39       Scenario Passed.                                                                                 
+2025-08-26 15:17:40       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:17:41       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:17:41       Successfully redirected to login page after logout.                                              
+2025-08-26 15:17:41       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:17:41       Browser closed.                                                                                  
+2025-08-26 15:17:45       Scenario:Select a different theme color "Dark Blue"                                              
+2025-08-26 15:17:45       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:17:46       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:17:48       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:17:48       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:17:49       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:17:50       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:17:50       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:17:51       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:17:53       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:17:53       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:17:53       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:17:53       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:18:06       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:18:06       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:18:16       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:18:17       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:18:17       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:18:19       the profile popup is open                                              Anwar           Profile Tab
+2025-08-26 15:18:19       Captured screenshot for passed step: the profile popup is open                                   
+2025-08-26 15:18:19       Captured screenshot for passed step: the user selects the Dark Blue from the palette                           
+2025-08-26 15:18:19       Successfully captured screenshot: the application theme should change toDark Blue                           
+2025-08-26 15:18:19       the application theme should change to Dark Blue                       Anwar           Profile Tab
+2025-08-26 15:18:19       Captured screenshot for passed step: the application theme should change to Dark Blue                           
+2025-08-26 15:18:19       the selected theme color should be highlighted                         Anwar           Profile Tab
+2025-08-26 15:18:20       Captured screenshot for passed step: the selected theme color should be highlighted                           
+2025-08-26 15:18:20       Scenario Passed.                                                                                 
+2025-08-26 15:18:20       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:18:21       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:18:21       Successfully redirected to login page after logout.                                              
+2025-08-26 15:18:21       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:18:21       Browser closed.                                                                                  
+2025-08-26 15:18:26       Scenario:Select a different theme color "Sky Blue"                                               
+2025-08-26 15:18:26       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:18:26       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:18:34       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:18:34       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:18:35       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:18:35       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:18:45       Captured screenshot for failed step: Click on Capium365 Client login                             
+2025-08-26 15:18:45       Scenario Failed.                                                                                 
+2025-08-26 15:19:45       No logout element was clicked.                                                                   
+2025-08-26 15:19:45       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:19:45       Browser closed.                                                                                  
+2025-08-26 15:19:50       Scenario:Select a different theme color "Blue"                                                   
+2025-08-26 15:19:50       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:19:50       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:20:00       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:20:01       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:20:11       Captured screenshot for failed step: User need to enter the Application Url                           
+2025-08-26 15:20:11       Scenario Failed.                                                                                 
+2025-08-26 15:21:11       No logout element was clicked.                                                                   
+2025-08-26 15:21:11       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:21:11       Browser closed.                                                                                  
+2025-08-26 15:21:16       Scenario:Select a different theme color "Teal"                                                   
+2025-08-26 15:21:16       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:21:16       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:21:18       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:21:18       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:21:20       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:21:20       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:21:20       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:21:20       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:21:24       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:21:25       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:21:25       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:21:25       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:21:38       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:21:39       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:21:49       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:21:49       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:21:49       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:21:51       the profile popup is open                                              Anwar           Profile Tab
+2025-08-26 15:21:51       Captured screenshot for passed step: the profile popup is open                                   
+2025-08-26 15:21:51       Captured screenshot for passed step: the user selects the Teal from the palette                           
+2025-08-26 15:21:51       Successfully captured screenshot: the application theme should change toTeal                           
+2025-08-26 15:21:51       the application theme should change to Teal                            Anwar           Profile Tab
+2025-08-26 15:21:52       Captured screenshot for passed step: the application theme should change to Teal                           
+2025-08-26 15:21:52       the selected theme color should be highlighted                         Anwar           Profile Tab
+2025-08-26 15:21:52       Captured screenshot for passed step: the selected theme color should be highlighted                           
+2025-08-26 15:21:52       Scenario Passed.                                                                                 
+2025-08-26 15:21:52       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:21:53       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:21:53       Successfully redirected to login page after logout.                                              
+2025-08-26 15:21:53       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:21:54       Browser closed.                                                                                  
+2025-08-26 15:21:57       Scenario:Select a different theme color "Yellow"                                                 
+2025-08-26 15:21:57       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:21:57       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:22:00       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:22:00       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:22:01       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:22:01       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:22:01       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:22:02       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:22:05       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:22:05       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:22:05       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:22:05       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:22:19       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:22:19       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:22:29       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:22:29       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:22:29       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:22:31       the profile popup is open                                              Anwar           Profile Tab
+2025-08-26 15:22:31       Captured screenshot for passed step: the profile popup is open                                   
+2025-08-26 15:22:31       Captured screenshot for passed step: the user selects the Yellow from the palette                           
+2025-08-26 15:22:32       Successfully captured screenshot: the application theme should change toYellow                           
+2025-08-26 15:22:32       the application theme should change to Yellow                          Anwar           Profile Tab
+2025-08-26 15:22:32       Captured screenshot for passed step: the application theme should change to Yellow                           
+2025-08-26 15:22:32       the selected theme color should be highlighted                         Anwar           Profile Tab
+2025-08-26 15:22:32       Captured screenshot for passed step: the selected theme color should be highlighted                           
+2025-08-26 15:22:32       Scenario Passed.                                                                                 
+2025-08-26 15:22:32       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:22:33       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:22:33       Successfully redirected to login page after logout.                                              
+2025-08-26 15:22:33       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:22:33       Browser closed.                                                                                  
+2025-08-26 15:22:37       Scenario:Select a different theme color "Red"                                                    
+2025-08-26 15:22:37       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:22:37       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:22:40       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:22:40       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:22:41       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:22:41       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:22:41       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:22:41       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:22:44       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:22:45       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:22:45       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:22:45       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:22:58       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:22:58       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:23:08       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:23:08       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:23:08       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:23:10       the profile popup is open                                              Anwar           Profile Tab
+2025-08-26 15:23:10       Captured screenshot for passed step: the profile popup is open                                   
+2025-08-26 15:23:11       Captured screenshot for passed step: the user selects the Red from the palette                           
+2025-08-26 15:23:11       Successfully captured screenshot: the application theme should change toRed                           
+2025-08-26 15:23:11       the application theme should change to Red                             Anwar           Profile Tab
+2025-08-26 15:23:11       Captured screenshot for passed step: the application theme should change to Red                           
+2025-08-26 15:23:11       the selected theme color should be highlighted                         Anwar           Profile Tab
+2025-08-26 15:23:11       Captured screenshot for passed step: the selected theme color should be highlighted                           
+2025-08-26 15:23:11       Scenario Passed.                                                                                 
+2025-08-26 15:23:11       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:23:13       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:23:13       Successfully redirected to login page after logout.                                              
+2025-08-26 15:23:13       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:23:13       Browser closed.                                                                                  
+2025-08-26 15:23:17       Scenario:Select a different theme color "Black"                                                  
+2025-08-26 15:23:17       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:23:17       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:23:19       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:23:20       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:23:21       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:23:21       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:23:21       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:23:22       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:23:25       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:23:25       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:23:25       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:23:25       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:23:38       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:23:38       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:23:48       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:23:48       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:23:48       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:23:51       the profile popup is open                                              Anwar           Profile Tab
+2025-08-26 15:23:51       Captured screenshot for passed step: the profile popup is open                                   
+2025-08-26 15:23:51       Captured screenshot for passed step: the user selects the Black from the palette                           
+2025-08-26 15:23:51       Successfully captured screenshot: the application theme should change toBlack                           
+2025-08-26 15:23:51       the application theme should change to Black                           Anwar           Profile Tab
+2025-08-26 15:23:51       Captured screenshot for passed step: the application theme should change to Black                           
+2025-08-26 15:23:51       the selected theme color should be highlighted                         Anwar           Profile Tab
+2025-08-26 15:23:51       Captured screenshot for passed step: the selected theme color should be highlighted                           
+2025-08-26 15:23:51       Scenario Passed.                                                                                 
+2025-08-26 15:23:51       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:23:53       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:23:53       Successfully redirected to login page after logout.                                              
+2025-08-26 15:23:53       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:23:53       Browser closed.                                                                                  
+2025-08-26 15:23:57       Scenario:Select a different theme color "Green"                                                  
+2025-08-26 15:23:57       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:23:57       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:23:58       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:23:59       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:24:00       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:24:00       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:24:00       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:24:01       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:24:04       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:24:05       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:24:05       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:24:05       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:24:18       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:24:18       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:24:28       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:24:28       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:24:28       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:24:30       the profile popup is open                                              Anwar           Profile Tab
+2025-08-26 15:24:30       Captured screenshot for passed step: the profile popup is open                                   
+2025-08-26 15:24:31       Captured screenshot for passed step: the user selects the Green from the palette                           
+2025-08-26 15:24:31       Successfully captured screenshot: the application theme should change toGreen                           
+2025-08-26 15:24:31       the application theme should change to Green                           Anwar           Profile Tab
+2025-08-26 15:24:31       Captured screenshot for passed step: the application theme should change to Green                           
+2025-08-26 15:24:31       the selected theme color should be highlighted                         Anwar           Profile Tab
+2025-08-26 15:24:31       Captured screenshot for passed step: the selected theme color should be highlighted                           
+2025-08-26 15:24:31       Scenario Passed.                                                                                 
+2025-08-26 15:24:31       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:24:32       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:24:32       Successfully redirected to login page after logout.                                              
+2025-08-26 15:24:32       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:24:33       Browser closed.                                                                                  
+2025-08-26 15:24:37       Scenario:Close profile popup by clicking outside                                                 
+2025-08-26 15:24:37       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-26 15:24:37       Captured screenshot for passed step: Launch the browser                                          
+2025-08-26 15:24:39       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-26 15:24:39       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-26 15:24:40       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-26 15:24:40       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-26 15:24:40       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-26 15:24:40       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-26 15:24:44       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-26 15:24:44       Captured screenshot for passed step: User Click on login button                                  
+2025-08-26 15:24:44       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-26 15:24:44       Captured screenshot for passed step: User enter OTP                                              
+2025-08-26 15:24:57       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-26 15:24:57       Captured screenshot for passed step: Click on verify account                                     
+2025-08-26 15:25:07       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-26 15:25:07       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-26 15:25:08       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-26 15:25:10       the profile popup is open                                              Anwar           Profile Tab
+2025-08-26 15:25:10       Captured screenshot for passed step: the profile popup is open                                   
+2025-08-26 15:25:12       the user clicks outside the popup                                      Anwar           Profile Tab
+2025-08-26 15:25:12       Captured screenshot for passed step: the user clicks outside the popup                           
+2025-08-26 15:25:22       the profile popup should be closed                                     Anwar           Profile Tab
+2025-08-26 15:25:22       Captured screenshot for passed step: the profile popup should be closed                           
+2025-08-26 15:25:22       Scenario Passed.                                                                                 
+2025-08-26 15:25:22       Clicked 5.0 Profile Icon.                                                                        
+2025-08-26 15:25:24       Clicked 5.0 Sign Out.                                                                            
+2025-08-26 15:25:24       Successfully redirected to login page after logout.                                              
+2025-08-26 15:25:24       Successfully logged out and redirected to login page.                                            
+2025-08-26 15:25:24       Browser closed.                                                                                  

@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Capium365.RunnerFiles.Capium365_BankTab_Runner">
+      <class name="com.Capium365.RunnerFiles.Capium365_Dashboard_Runner">
         <methods>
           <include name="setUpClass"/>
           <include name="tearDownClass"/>
-          <include name="runScenario" invocation-numbers="0"/>
+          <include name="runScenario" invocation-numbers="1 20 5 21"/>
         </methods>
-      </class> <!-- com.Capium365.RunnerFiles.Capium365_BankTab_Runner -->
+      </class> <!-- com.Capium365.RunnerFiles.Capium365_Dashboard_Runner -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
