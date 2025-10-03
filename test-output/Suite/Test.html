@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>2/0/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>12/20/0</td>
 </tr><tr>
-<td>Started on:</td><td>Fri Aug 22 14:57:55 IST 2025</td>
+<td>Started on:</td><td>Fri Aug 29 12:18:51 IST 2025</td>
 </tr>
-<tr><td>Total time:</td><td>133 seconds (133106 ms)</td>
+<tr><td>Total time:</td><td>1799 seconds (1799121 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,6 +67,848 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate Confirm Restore button in CreditNote", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52030}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52030/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 79c5079c4601bb2aa65a4e1c6feaa773
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonRestoreIcon(Capium365_Receipts_CreditNotes_Actions.java:571)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_clickon_restore_iconn(Capium365_Receipts_CreditNotes_Stepdefination.java:231)
+	at ✽.Mousehover and Clickon Restore Iconn(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:94)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1447955052", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1447955052'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52030}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52030/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 79c5079c4601bb2aa65a4e1c6feaa773
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonRestoreIcon(Capium365_Receipts_CreditNotes_Actions.java:571)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_clickon_restore_iconn(Capium365_Receipts_CreditNotes_Stepdefination.java:231)
+	at ✽.Mousehover and Clickon Restore Iconn(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:94)
+</pre></div></td>
+<td>52</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate SettingsIcon in Edit Purchase CreditNote Page", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //mat-icon[normalize-space()=&apos;settings_suggest&apos;]//parent::span//parent::button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52713}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52713/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 35afcdaff764d3d1454d77558a336600
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonSettingsIcon(Capium365_Receipts_CreditNotes_Actions.java:752)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_settings_icon(Capium365_Receipts_CreditNotes_Stepdefination.java:357)
+	at ✽.Click on Settings Icon(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:151)
+</pre></div><a href='#' onClick='toggleBox("stack-trace163919904", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace163919904'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //mat-icon[normalize-space()=&apos;settings_suggest&apos;]//parent::span//parent::button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52713}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52713/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 35afcdaff764d3d1454d77558a336600
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonSettingsIcon(Capium365_Receipts_CreditNotes_Actions.java:752)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_settings_icon(Capium365_Receipts_CreditNotes_Stepdefination.java:357)
+	at ✽.Click on Settings Icon(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:151)
+</pre></div></td>
+<td>59</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate Process Duplicate Upload popup with Yes button", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//span[@class=&apos;mat-button-wrapper&apos;])[14]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f1fc2af21ec642e73e8cd64e0bbffee1, findElement {using=xpath, value=(//span[@class=&apos;mat-button-wrapper&apos;])[14]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53468}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53468/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f1fc2af21ec642e73e8cd64e0bbffee1
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonUploadCreditNotesButton(Capium365_Receipts_CreditNotes_Actions.java:217)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_upload_credit_notes_button(Capium365_Receipts_CreditNotes_Stepdefination.java:76)
+	at ✽.Click on Upload CreditNotes button(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:228)
+... Removed 4 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace3330999", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace3330999'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//span[@class=&apos;mat-button-wrapper&apos;])[14]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f1fc2af21ec642e73e8cd64e0bbffee1, findElement {using=xpath, value=(//span[@class=&apos;mat-button-wrapper&apos;])[14]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53468}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53468/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f1fc2af21ec642e73e8cd64e0bbffee1
+	at jdk.internal.reflect.GeneratedConstructorAccessor28.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonUploadCreditNotesButton(Capium365_Receipts_CreditNotes_Actions.java:217)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_upload_credit_notes_button(Capium365_Receipts_CreditNotes_Stepdefination.java:76)
+	at ✽.Click on Upload CreditNotes button(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:228)
+</pre></div></td>
+<td>49</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate cancel button in Upload CreditNotes Page", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//span[@class=&apos;mat-button-wrapper&apos;])[14]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [43c1d092130058fad225b4ceb905f534, findElement {using=xpath, value=(//span[@class=&apos;mat-button-wrapper&apos;])[14]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53671}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53671/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 43c1d092130058fad225b4ceb905f534
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonUploadCreditNotesButton(Capium365_Receipts_CreditNotes_Actions.java:217)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_upload_credit_notes_button(Capium365_Receipts_CreditNotes_Stepdefination.java:76)
+	at ✽.Click on Upload CreditNotes button(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:256)
+... Removed 4 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1432831714", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1432831714'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//span[@class=&apos;mat-button-wrapper&apos;])[14]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [43c1d092130058fad225b4ceb905f534, findElement {using=xpath, value=(//span[@class=&apos;mat-button-wrapper&apos;])[14]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53671}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53671/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 43c1d092130058fad225b4ceb905f534
+	at jdk.internal.reflect.GeneratedConstructorAccessor28.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonUploadCreditNotesButton(Capium365_Receipts_CreditNotes_Actions.java:217)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_upload_credit_notes_button(Capium365_Receipts_CreditNotes_Stepdefination.java:76)
+	at ✽.Click on Upload CreditNotes button(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:256)
+</pre></div></td>
+<td>49</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate NextButton Purchase CreditNote Menu", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(), &apos;Receipts&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53754}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53754/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 29b0386b95f3ae0cad8307922f061828
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_PurchaseInvoice_Actions.clickOnReceiptsMenu(Capium365_Receipts_PurchaseInvoice_Actions.java:37)
+	at com.Capium365.StepDefination.Capium365_Receipts_PurchaseInvoice_Stepdefination.click_on_receipts_menu(Capium365_Receipts_PurchaseInvoice_Stepdefination.java:21)
+	at ✽.Click on Receipts Menu(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:263)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1302326778", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1302326778'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(), &apos;Receipts&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53754}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53754/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 29b0386b95f3ae0cad8307922f061828
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_PurchaseInvoice_Actions.clickOnReceiptsMenu(Capium365_Receipts_PurchaseInvoice_Actions.java:37)
+	at com.Capium365.StepDefination.Capium365_Receipts_PurchaseInvoice_Stepdefination.click_on_receipts_menu(Capium365_Receipts_PurchaseInvoice_Stepdefination.java:21)
+	at ✽.Click on Receipts Menu(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:263)
+</pre></div></td>
+<td>101</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate Confirm Delete button in CreditNote", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//span[@class=&apos;mat-checkbox-inner-container&apos;]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [38797eac7f639ac9bed64ecd40ea6211, findElement {using=xpath, value=//span[@class=&apos;mat-checkbox-inner-container&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 38797eac7f639ac9bed64ecd40ea6211
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickDeleteCheckBox(Capium365_Receipts_CreditNotes_Actions.java:543)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.select_check_boxx(Capium365_Receipts_CreditNotes_Stepdefination.java:198)
+	at ✽.Select CheckBoxx(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:70)
+... Removed 5 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1988584481", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1988584481'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//span[@class=&apos;mat-checkbox-inner-container&apos;]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [38797eac7f639ac9bed64ecd40ea6211, findElement {using=xpath, value=//span[@class=&apos;mat-checkbox-inner-container&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 38797eac7f639ac9bed64ecd40ea6211
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickDeleteCheckBox(Capium365_Receipts_CreditNotes_Actions.java:543)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.select_check_boxx(Capium365_Receipts_CreditNotes_Stepdefination.java:198)
+	at ✽.Select CheckBoxx(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:70)
+</pre></div></td>
+<td>63</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate Confirm Archive button in CreditNote", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51926}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51926/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 59db49ddc4a815d0c2763c48a30dc117
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonArchiveIcon(Capium365_Receipts_CreditNotes_Actions.java:555)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_clickon_archive_iconn(Capium365_Receipts_CreditNotes_Stepdefination.java:217)
+	at ✽.Mousehover and Clickon Archive Iconn(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:86)
+</pre></div><a href='#' onClick='toggleBox("stack-trace592108514", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace592108514'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51926}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51926/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 59db49ddc4a815d0c2763c48a30dc117
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonArchiveIcon(Capium365_Receipts_CreditNotes_Actions.java:555)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_clickon_archive_iconn(Capium365_Receipts_CreditNotes_Stepdefination.java:217)
+	at ✽.Mousehover and Clickon Archive Iconn(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:86)
+</pre></div></td>
+<td>52</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validating Export from Footer", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54061}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54061/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 79ec979262d9c9ee795ae46d5088e77c
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonCreditNoteCheckBox(Capium365_Receipts_CreditNotes_Actions.java:888)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_id_check_box_for_particular_credit_note(Capium365_Receipts_CreditNotes_Stepdefination.java:443)
+	at ✽.Click on IDCheckBox For Particular CreditNote(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:286)
+</pre></div><a href='#' onClick='toggleBox("stack-trace4594799", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace4594799'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54061}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54061/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 79ec979262d9c9ee795ae46d5088e77c
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonCreditNoteCheckBox(Capium365_Receipts_CreditNotes_Actions.java:888)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_id_check_box_for_particular_credit_note(Capium365_Receipts_CreditNotes_Stepdefination.java:443)
+	at ✽.Click on IDCheckBox For Particular CreditNote(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:286)
+</pre></div></td>
+<td>49</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate Mousehover EditIcon", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51647}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51647/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7116ab745fd6ffc6694dcae71cbfa287
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonEditIcon(Capium365_Receipts_CreditNotes_Actions.java:508)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_clickon_edit_iconn(Capium365_Receipts_CreditNotes_Stepdefination.java:180)
+	at ✽.Mousehover and ClickonEditIconn(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:60)
+</pre></div><a href='#' onClick='toggleBox("stack-trace275719205", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace275719205'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51647}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51647/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7116ab745fd6ffc6694dcae71cbfa287
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonEditIcon(Capium365_Receipts_CreditNotes_Actions.java:508)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_clickon_edit_iconn(Capium365_Receipts_CreditNotes_Stepdefination.java:180)
+	at ✽.Mousehover and ClickonEditIconn(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:60)
+</pre></div></td>
+<td>51</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate EditSupplier button", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53089}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53089/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 216d2de306427e8372bbd8330ff04cea
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonEditIcon(Capium365_Receipts_CreditNotes_Actions.java:508)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_clickon_edit_iconn(Capium365_Receipts_CreditNotes_Stepdefination.java:180)
+	at ✽.Mousehover and ClickonEditIconn(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:185)
+</pre></div><a href='#' onClick='toggleBox("stack-trace333707689", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace333707689'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53089}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53089/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 216d2de306427e8372bbd8330ff04cea
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonEditIcon(Capium365_Receipts_CreditNotes_Actions.java:508)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_clickon_edit_iconn(Capium365_Receipts_CreditNotes_Stepdefination.java:180)
+	at ✽.Mousehover and ClickonEditIconn(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:185)
+</pre></div></td>
+<td>52</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Valdidate Duplicate popup", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//span[@class=&apos;mat-button-wrapper&apos;])[14]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [55ebcbdc8964f8599d72ca55e6e91dcd, findElement {using=xpath, value=(//span[@class=&apos;mat-button-wrapper&apos;])[14]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53376}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53376/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 55ebcbdc8964f8599d72ca55e6e91dcd
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonUploadCreditNotesButton(Capium365_Receipts_CreditNotes_Actions.java:217)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_upload_credit_notes_button(Capium365_Receipts_CreditNotes_Stepdefination.java:76)
+	at ✽.Click on Upload CreditNotes button(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:215)
+... Removed 4 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace278784150", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace278784150'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//span[@class=&apos;mat-button-wrapper&apos;])[14]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [55ebcbdc8964f8599d72ca55e6e91dcd, findElement {using=xpath, value=(//span[@class=&apos;mat-button-wrapper&apos;])[14]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53376}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53376/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 55ebcbdc8964f8599d72ca55e6e91dcd
+	at jdk.internal.reflect.GeneratedConstructorAccessor28.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonUploadCreditNotesButton(Capium365_Receipts_CreditNotes_Actions.java:217)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_upload_credit_notes_button(Capium365_Receipts_CreditNotes_Stepdefination.java:76)
+	at ✽.Click on Upload CreditNotes button(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:215)
+</pre></div></td>
+<td>48</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate Confirm Delete button in CreditNote", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//span[@class=&apos;mat-checkbox-inner-container&apos;]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [85ea08ccb2275451bc3992d10dca6868, findElement {using=xpath, value=//span[@class=&apos;mat-checkbox-inner-container&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51827}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51827/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 85ea08ccb2275451bc3992d10dca6868
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickDeleteCheckBox(Capium365_Receipts_CreditNotes_Actions.java:543)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.select_check_boxx(Capium365_Receipts_CreditNotes_Stepdefination.java:198)
+	at ✽.Select CheckBoxx(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:78)
+... Removed 4 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace812709279", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace812709279'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//span[@class=&apos;mat-checkbox-inner-container&apos;]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [85ea08ccb2275451bc3992d10dca6868, findElement {using=xpath, value=//span[@class=&apos;mat-checkbox-inner-container&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51827}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51827/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 85ea08ccb2275451bc3992d10dca6868
+	at jdk.internal.reflect.GeneratedConstructorAccessor28.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickDeleteCheckBox(Capium365_Receipts_CreditNotes_Actions.java:543)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.select_check_boxx(Capium365_Receipts_CreditNotes_Stepdefination.java:198)
+	at ✽.Select CheckBoxx(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:78)
+</pre></div></td>
+<td>63</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate plus Icon Edit Purchase CreditNote Page", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52996}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52996/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e23e1dfe27f20285b551c68abd3ff33a
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonEditIcon(Capium365_Receipts_CreditNotes_Actions.java:508)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_clickon_edit_iconn(Capium365_Receipts_CreditNotes_Stepdefination.java:180)
+	at ✽.Mousehover and ClickonEditIconn(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:175)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1046164170", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1046164170'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52996}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52996/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e23e1dfe27f20285b551c68abd3ff33a
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonEditIcon(Capium365_Receipts_CreditNotes_Actions.java:508)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_clickon_edit_iconn(Capium365_Receipts_CreditNotes_Stepdefination.java:180)
+	at ✽.Mousehover and ClickonEditIconn(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:175)
+</pre></div></td>
+<td>52</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate Three dot in CreditNote MainGrid History Button", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52236}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52236/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c2cf132781e9175451cc4eb41539678
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonThreeDotIcon(Capium365_Receipts_CreditNotes_Actions.java:587)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_click_on_three_dot(Capium365_Receipts_CreditNotes_Stepdefination.java:243)
+	at ✽.Mousehover and Click on ThreeDot(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:110)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1127705091", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1127705091'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52236}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52236/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c2cf132781e9175451cc4eb41539678
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonThreeDotIcon(Capium365_Receipts_CreditNotes_Actions.java:587)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_click_on_three_dot(Capium365_Receipts_CreditNotes_Stepdefination.java:243)
+	at ✽.Mousehover and Click on ThreeDot(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:110)
+</pre></div></td>
+<td>51</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate Three dot in CreditNote MainGrid", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52129}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52129/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 720f849ad22d0fd2576175caedb454b0
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonThreeDotIcon(Capium365_Receipts_CreditNotes_Actions.java:587)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_click_on_three_dot(Capium365_Receipts_CreditNotes_Stepdefination.java:243)
+	at ✽.Mousehover and Click on ThreeDot(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:102)
+</pre></div><a href='#' onClick='toggleBox("stack-trace569675628", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace569675628'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52129}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52129/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 720f849ad22d0fd2576175caedb454b0
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonThreeDotIcon(Capium365_Receipts_CreditNotes_Actions.java:587)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_click_on_three_dot(Capium365_Receipts_CreditNotes_Stepdefination.java:243)
+	at ✽.Mousehover and Click on ThreeDot(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:102)
+</pre></div></td>
+<td>53</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate History popup Closed button", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52340}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52340/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dfe530bc3fda893641c4e6ff183093a5
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonThreeDotIcon(Capium365_Receipts_CreditNotes_Actions.java:587)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_click_on_three_dot(Capium365_Receipts_CreditNotes_Stepdefination.java:243)
+	at ✽.Mousehover and Click on ThreeDot(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:118)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1289641318", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1289641318'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //tbody/tr[1]/td/div/mat-checkbox/label/span[contains(@class,&apos;mat-checkbox-inner&apos;)] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52340}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52340/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dfe530bc3fda893641c4e6ff183093a5
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.MousehoverandclickonThreeDotIcon(Capium365_Receipts_CreditNotes_Actions.java:587)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.mousehover_and_click_on_three_dot(Capium365_Receipts_CreditNotes_Stepdefination.java:243)
+	at ✽.Mousehover and Click on ThreeDot(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:118)
+</pre></div></td>
+<td>52</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate VATRate Dropdown in Settings popup", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //mat-icon[normalize-space()=&apos;settings_suggest&apos;]//parent::span//parent::button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52815}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52815/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 083ce6378c8466e3982534e2df2ce56e
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonSettingsIcon(Capium365_Receipts_CreditNotes_Actions.java:752)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_settings_icon(Capium365_Receipts_CreditNotes_Stepdefination.java:357)
+	at ✽.Click on Settings Icon(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:159)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1499528600", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1499528600'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //mat-icon[normalize-space()=&apos;settings_suggest&apos;]//parent::span//parent::button (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52815}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52815/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 083ce6378c8466e3982534e2df2ce56e
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonSettingsIcon(Capium365_Receipts_CreditNotes_Actions.java:752)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_settings_icon(Capium365_Receipts_CreditNotes_Stepdefination.java:357)
+	at ✽.Click on Settings Icon(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:159)
+</pre></div></td>
+<td>59</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify UploadCreditNotes button MainGrid", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//span[@class=&apos;mat-button-wrapper&apos;])[14]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fa6511cf3f6c12822c22be8a0dec8669, findElement {using=xpath, value=(//span[@class=&apos;mat-button-wrapper&apos;])[14]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53184}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53184/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fa6511cf3f6c12822c22be8a0dec8669
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonUploadCreditNotesButton(Capium365_Receipts_CreditNotes_Actions.java:217)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_upload_credit_notes_button(Capium365_Receipts_CreditNotes_Stepdefination.java:76)
+	at ✽.Click on Upload CreditNotes button(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:193)
+... Removed 4 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1205172910", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1205172910'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//span[@class=&apos;mat-button-wrapper&apos;])[14]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fa6511cf3f6c12822c22be8a0dec8669, findElement {using=xpath, value=(//span[@class=&apos;mat-button-wrapper&apos;])[14]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53184}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53184/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fa6511cf3f6c12822c22be8a0dec8669
+	at jdk.internal.reflect.GeneratedConstructorAccessor28.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonUploadCreditNotesButton(Capium365_Receipts_CreditNotes_Actions.java:217)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_upload_credit_notes_button(Capium365_Receipts_CreditNotes_Stepdefination.java:76)
+	at ✽.Click on Upload CreditNotes button(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:193)
+</pre></div></td>
+<td>48</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate Process Duplicate Upload popup with No button", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//span[@class=&apos;mat-button-wrapper&apos;])[14]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [944a894e0a6615c6d2a0969fa288f608, findElement {using=xpath, value=(//span[@class=&apos;mat-button-wrapper&apos;])[14]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53576}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53576/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 944a894e0a6615c6d2a0969fa288f608
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonUploadCreditNotesButton(Capium365_Receipts_CreditNotes_Actions.java:217)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_upload_credit_notes_button(Capium365_Receipts_CreditNotes_Stepdefination.java:76)
+	at ✽.Click on Upload CreditNotes button(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:241)
+... Removed 4 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace910203035", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace910203035'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//span[@class=&apos;mat-button-wrapper&apos;])[14]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [944a894e0a6615c6d2a0969fa288f608, findElement {using=xpath, value=(//span[@class=&apos;mat-button-wrapper&apos;])[14]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53576}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53576/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 944a894e0a6615c6d2a0969fa288f608
+	at jdk.internal.reflect.GeneratedConstructorAccessor28.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonUploadCreditNotesButton(Capium365_Receipts_CreditNotes_Actions.java:217)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_upload_credit_notes_button(Capium365_Receipts_CreditNotes_Stepdefination.java:76)
+	at ✽.Click on Upload CreditNotes button(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:241)
+</pre></div></td>
+<td>48</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate Duplicate buttom in the main Grid", "Capium365 Receipts under Credit Notes"</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//span[@class=&apos;mat-button-wrapper&apos;])[14]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dd2e17113ca32b34d3cf8d5708648172, findElement {using=xpath, value=(//span[@class=&apos;mat-button-wrapper&apos;])[14]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53281}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53281/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dd2e17113ca32b34d3cf8d5708648172
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonUploadCreditNotesButton(Capium365_Receipts_CreditNotes_Actions.java:217)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_upload_credit_notes_button(Capium365_Receipts_CreditNotes_Stepdefination.java:76)
+	at ✽.Click on Upload CreditNotes button(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:202)
+... Removed 4 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace739823079", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace739823079'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//span[@class=&apos;mat-button-wrapper&apos;])[14]&quot;}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
+System info: os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dd2e17113ca32b34d3cf8d5708648172, findElement {using=xpath, value=(//span[@class=&apos;mat-button-wrapper&apos;])[14]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53281}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53281/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dd2e17113ca32b34d3cf8d5708648172
+	at jdk.internal.reflect.GeneratedConstructorAccessor28.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy43.click(Unknown Source)
+	at com.Capium365.Actions.Capium365_Receipts_CreditNotes_Actions.ClickonUploadCreditNotesButton(Capium365_Receipts_CreditNotes_Actions.java:217)
+	at com.Capium365.StepDefination.Capium365_Receipts_CreditNotes_Stepdefination.click_on_upload_credit_notes_button(Capium365_Receipts_CreditNotes_Stepdefination.java:76)
+	at ✽.Click on Upload CreditNotes button(file:///C:/Users/satishkumar.silphoz/Documents/2024Automation/2025/Capium365/src/test/resources/Capium365FeatureFiles/Capium365_Receipts_CreditNotes.feature:202)
+</pre></div></td>
+<td>50</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+</table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
@@ -76,15 +918,65 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.Capium365.RunnerFiles.Capium365_Dashboard_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Dashboard_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate Invoice dashboard chart for 'Time Filter'", "Dashboard Chart Validation"</td>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate Export to Excel", "Capium365 Receipts under Credit Notes"</td>
 <td></td>
-<td>54</td>
-<td>com.Capium365.RunnerFiles.Capium365_Dashboard_Runner@8c3b9d</td></tr>
+<td>51</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
 <tr>
-<td title='com.Capium365.RunnerFiles.Capium365_Dashboard_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Dashboard_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate Transactions dashboard chart for 'This Year'", "Dashboard Chart Validation"</td>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate search bar", "Capium365 Receipts under Credit Notes"</td>
 <td></td>
-<td>75</td>
-<td>com.Capium365.RunnerFiles.Capium365_Dashboard_Runner@8c3b9d</td></tr>
+<td>65</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify Date Dropdown", "Capium365 Receipts under Credit Notes"</td>
+<td></td>
+<td>64</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate Suplier Dropdown in Edit Purchase CreditNote Page", "Capium365 Receipts under Credit Notes"</td>
+<td></td>
+<td>61</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Valiate Edit CreditNote Page", "Capium365 Receipts under Credit Notes"</td>
+<td></td>
+<td>44</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate CreditNotes Main Grid", "Capium365 Receipts under Credit Notes"</td>
+<td></td>
+<td>39</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify All Status Dropdown", "Capium365 Receipts under Credit Notes"</td>
+<td></td>
+<td>66</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate No of Suppliers in CreditNotes", "Capium365 Receipts under Credit Notes"</td>
+<td></td>
+<td>98</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate PreviousButton Purchase CreditNote Menu", "Capium365 Receipts under Credit Notes"</td>
+<td></td>
+<td>41</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate GotoPage Purchase CreditNote Screen", "Capium365 Receipts under Credit Notes"</td>
+<td></td>
+<td>48</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate File Icon In CreditNote Main Grid", "Capium365 Receipts under Credit Notes"</td>
+<td></td>
+<td>48</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
+<tr>
+<td title='com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner.runScenario()'><b>runScenario</b><br>Test class: com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validate plus Icon Edit Purchase CreditNote Page", "Capium365 Receipts under Credit Notes"</td>
+<td></td>
+<td>45</td>
+<td>com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner@707194ba</td></tr>
 </table><p>
 </body>
 </html>

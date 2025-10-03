@@ -3,13 +3,13 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.Capium365.RunnerFiles.Capium365_Dashboard_Runner">
+      <class name="com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner">
         <methods>
           <include name="setUpClass"/>
           <include name="tearDownClass"/>
-          <include name="runScenario" invocation-numbers="0 1"/>
+          <include name="runScenario" invocation-numbers="6 7 8 9 10 11 12 13 17 18 20 21 22 23 24 25 26 27 28 31"/>
         </methods>
-      </class> <!-- com.Capium365.RunnerFiles.Capium365_Dashboard_Runner -->
+      </class> <!-- com.Capium365.RunnerFiles.Capium365_Receipts_CreditNotes_Runner -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -8486,3 +8486,1043 @@ Session ID: 32905a820f28ed22de00d578323cad35
 2025-08-26 15:25:24       Successfully redirected to login page after logout.                                              
 2025-08-26 15:25:24       Successfully logged out and redirected to login page.                                            
 2025-08-26 15:25:24       Browser closed.                                                                                  
+2025-08-29 12:19:00       Driver setup successfully                                                                        
+2025-08-29 12:19:00       Scenario:Validate CreditNotes Main Grid                                                          
+2025-08-29 12:19:01       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:19:01       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:19:02       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:19:02       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:19:04       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:19:04       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:19:04       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:19:04       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:19:08       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:19:08       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:19:08       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:19:08       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:19:21       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:19:21       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:19:31       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:19:32       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:19:32       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:19:32       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:19:34       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:19:34       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:19:37       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:19:37       Captured screenshot for passed step: verify CreditNotes Main Grid Should Display                           
+2025-08-29 12:19:37       Scenario Passed.                                                                                 
+2025-08-29 12:19:37       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:19:39       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:19:39       Successfully redirected to login page after logout.                                              
+2025-08-29 12:19:39       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:19:39       Browser closed.                                                                                  
+2025-08-29 12:19:41       Scenario:Validate No of Suppliers in CreditNotes                                                 
+2025-08-29 12:19:41       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:19:41       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:19:43       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:19:43       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:19:44       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:19:44       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:19:44       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:19:44       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:19:47       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:19:48       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:19:48       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:19:48       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:20:01       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:20:01       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:20:11       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:20:11       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:20:11       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:20:12       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:20:13       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:20:13       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:20:17       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:20:29       Captured screenshot for passed step: validate No of suppliers                                    
+2025-08-29 12:20:41       Captured screenshot for passed step: validate No of CrediNotes                                   
+2025-08-29 12:20:53       Captured screenshot for passed step: validate No of TotalAmounts                                 
+2025-08-29 12:20:53       Scenario Passed.                                                                                 
+2025-08-29 12:20:53       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:20:58       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:21:18       Timeout: Login page not detected after logout.                                                   
+2025-08-29 12:21:18       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:21:18       Browser closed.                                                                                  
+2025-08-29 12:21:20       Scenario:Validate search bar                                                                     
+2025-08-29 12:21:20       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:21:20       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:21:44       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:21:44       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:21:45       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:21:46       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:21:46       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:21:46       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:21:50       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:21:51       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:21:51       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:21:51       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:22:04       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:22:04       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:22:14       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:22:14       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:22:14       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:22:15       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:22:16       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:22:16       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:22:20       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:22:21       Captured screenshot for passed step: Search and Verify CreditNote                                
+2025-08-29 12:22:21       Scenario Passed.                                                                                 
+2025-08-29 12:22:21       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:22:23       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:22:23       Successfully redirected to login page after logout.                                              
+2025-08-29 12:22:23       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:22:24       Browser closed.                                                                                  
+2025-08-29 12:22:25       Scenario:Verify All Status Dropdown                                                              
+2025-08-29 12:22:25       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:22:25       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:22:27       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:22:27       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:22:28       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:22:28       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:22:28       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:22:28       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:22:32       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:22:32       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:22:32       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:22:32       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:22:45       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:22:45       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:22:55       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:22:55       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:22:55       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:22:56       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:22:57       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:22:57       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:23:01       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:23:26       Captured screenshot for passed step: Click on Status Dropdown and Verify Each Status                           
+2025-08-29 12:23:26       Scenario Passed.                                                                                 
+2025-08-29 12:23:26       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:23:29       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:23:29       Successfully redirected to login page after logout.                                              
+2025-08-29 12:23:29       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:23:30       Browser closed.                                                                                  
+2025-08-29 12:23:31       Scenario:Verify Date Dropdown                                                                    
+2025-08-29 12:23:31       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:23:31       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:23:33       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:23:33       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:23:34       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:23:34       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:23:34       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:23:34       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:23:38       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:23:38       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:23:38       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:23:38       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:23:51       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:23:51       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:24:01       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:24:01       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:24:02       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:24:02       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:24:04       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:24:04       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:24:07       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:24:32       Captured screenshot for passed step: Click on Status Dropdown and Verify Each Status                           
+2025-08-29 12:24:32       Scenario Passed.                                                                                 
+2025-08-29 12:24:32       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:24:34       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:24:34       Successfully redirected to login page after logout.                                              
+2025-08-29 12:24:34       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:24:34       Browser closed.                                                                                  
+2025-08-29 12:24:35       Scenario:Validate Export to Excel                                                                
+2025-08-29 12:24:35       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:24:35       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:24:37       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:24:37       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:24:38       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:24:38       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:24:38       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:24:38       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:24:42       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:24:42       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:24:42       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:24:42       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:24:55       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:24:56       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:25:06       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:25:06       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:25:06       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:25:06       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:25:08       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:25:08       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:25:11       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:25:12       Captured screenshot for passed step: Click on Threedot                                           
+2025-08-29 12:25:12       Captured screenshot for passed step: Click on Export To excel in Creditnote                           
+2025-08-29 12:25:13       Captured screenshot for passed step: Click on Threedot                                           
+2025-08-29 12:25:13       Captured screenshot for passed step: Click on Export To CSV in CreditNote                           
+2025-08-29 12:25:14       Captured screenshot for passed step: Click on Threedot                                           
+2025-08-29 12:25:24       Captured screenshot for passed step: Click on Export To PDF in CreditNote                           
+2025-08-29 12:25:24       Scenario Passed.                                                                                 
+2025-08-29 12:25:24       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:25:25       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:25:25       Successfully redirected to login page after logout.                                              
+2025-08-29 12:25:25       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:25:26       Browser closed.                                                                                  
+2025-08-29 12:25:27       Scenario:Validate Mousehover EditIcon                                                            
+2025-08-29 12:25:27       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:25:27       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:25:29       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:25:29       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:25:30       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:25:30       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:25:30       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:25:30       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:25:33       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:25:33       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:25:33       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:25:34       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:25:47       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:25:47       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:25:57       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:25:57       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:25:57       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:25:58       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:25:59       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:25:59       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:26:03       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:26:16       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:26:16       Scenario Failed.                                                                                 
+2025-08-29 12:26:16       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:26:17       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:26:17       Successfully redirected to login page after logout.                                              
+2025-08-29 12:26:17       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:26:18       Browser closed.                                                                                  
+2025-08-29 12:26:19       Scenario:Validate Confirm Delete button in CreditNote                                            
+2025-08-29 12:26:19       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:26:19       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:26:20       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:26:21       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:26:22       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:26:22       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:26:22       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:26:22       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:26:25       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:26:25       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:26:25       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:26:26       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:26:39       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:26:39       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:26:49       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:26:49       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:26:49       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:26:50       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:26:51       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:26:51       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:26:54       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:27:05       Captured screenshot for passed step: Mousehover and ClickonDeleteIconn                           
+2025-08-29 12:27:15       Captured screenshot for failed step: Mousehover and ClickonDeleteIconn                           
+2025-08-29 12:27:15       Scenario Failed.                                                                                 
+2025-08-29 12:27:20       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:27:21       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:27:21       Successfully redirected to login page after logout.                                              
+2025-08-29 12:27:21       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:27:21       Browser closed.                                                                                  
+2025-08-29 12:27:22       Scenario:Validate Confirm Delete button in CreditNote                                            
+2025-08-29 12:27:22       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:27:22       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:27:24       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:27:24       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:27:25       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:27:26       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:27:26       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:27:26       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:27:29       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:27:29       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:27:29       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:27:29       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:27:42       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:27:42       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:27:52       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:27:52       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:27:53       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:27:53       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:27:55       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:27:55       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:27:58       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:28:09       Captured screenshot for passed step: Mousehover and ClickonDeleteIconn                           
+2025-08-29 12:28:19       Captured screenshot for failed step: Mousehover and ClickonDeleteIconn                           
+2025-08-29 12:28:19       Scenario Failed.                                                                                 
+2025-08-29 12:28:24       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:28:25       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:28:25       Successfully redirected to login page after logout.                                              
+2025-08-29 12:28:25       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:28:25       Browser closed.                                                                                  
+2025-08-29 12:28:27       Scenario:Validate Confirm Archive button in CreditNote                                           
+2025-08-29 12:28:27       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:28:27       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:28:28       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:28:28       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:28:29       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:28:30       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:28:30       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:28:30       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:28:33       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:28:33       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:28:33       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:28:34       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:28:47       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:28:47       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:28:57       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:28:57       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:28:57       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:28:58       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:28:59       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:29:00       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:29:03       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:29:16       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:29:16       Scenario Failed.                                                                                 
+2025-08-29 12:29:16       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:29:18       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:29:18       Successfully redirected to login page after logout.                                              
+2025-08-29 12:29:18       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:29:18       Browser closed.                                                                                  
+2025-08-29 12:29:19       Scenario:Validate Confirm Restore button in CreditNote                                           
+2025-08-29 12:29:19       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:29:19       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:29:22       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:29:22       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:29:23       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:29:23       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:29:23       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:29:23       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:29:27       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:29:27       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:29:27       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:29:27       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:29:40       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:29:40       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:29:50       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:29:50       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:29:50       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:29:51       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:29:52       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:29:53       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:29:56       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:30:09       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:30:09       Scenario Failed.                                                                                 
+2025-08-29 12:30:09       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:30:11       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:30:11       Successfully redirected to login page after logout.                                              
+2025-08-29 12:30:11       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:30:11       Browser closed.                                                                                  
+2025-08-29 12:30:12       Scenario:Validate Three dot in CreditNote MainGrid                                               
+2025-08-29 12:30:12       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:30:12       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:30:14       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:30:14       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:30:15       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:30:15       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:30:15       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:30:15       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:30:19       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:30:20       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:30:20       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:30:20       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:30:33       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:30:33       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:30:43       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:30:43       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:30:43       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:30:44       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:30:45       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:30:46       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:30:49       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:31:02       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:31:02       Scenario Failed.                                                                                 
+2025-08-29 12:31:02       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:31:04       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:31:04       Successfully redirected to login page after logout.                                              
+2025-08-29 12:31:04       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:31:04       Browser closed.                                                                                  
+2025-08-29 12:31:05       Scenario:Validate Three dot in CreditNote MainGrid History Button                                
+2025-08-29 12:31:05       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:31:05       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:31:07       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:31:07       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:31:08       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:31:08       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:31:08       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:31:08       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:31:12       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:31:12       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:31:12       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:31:12       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:31:25       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:31:25       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:31:35       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:31:35       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:31:35       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:31:36       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:31:37       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:31:38       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:31:41       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:31:54       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:31:54       Scenario Failed.                                                                                 
+2025-08-29 12:31:54       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:31:55       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:31:55       Successfully redirected to login page after logout.                                              
+2025-08-29 12:31:55       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:31:56       Browser closed.                                                                                  
+2025-08-29 12:31:57       Scenario:Validate History popup Closed button                                                    
+2025-08-29 12:31:57       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:31:57       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:31:59       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:31:59       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:32:00       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:32:00       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:32:00       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:32:00       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:32:04       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:32:04       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:32:04       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:32:04       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:32:18       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:32:18       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:32:28       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:32:28       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:32:28       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:32:29       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:32:30       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:32:30       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:32:33       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:32:47       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:32:47       Scenario Failed.                                                                                 
+2025-08-29 12:32:47       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:32:48       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:32:48       Successfully redirected to login page after logout.                                              
+2025-08-29 12:32:48       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:32:49       Browser closed.                                                                                  
+2025-08-29 12:32:49       Scenario:Validate File Icon In CreditNote Main Grid                                              
+2025-08-29 12:32:49       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:32:50       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:32:52       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:32:52       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:32:53       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:32:53       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:32:53       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:32:53       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:32:57       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:32:57       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:32:57       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:32:57       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:33:10       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:33:10       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:33:20       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:33:20       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:33:20       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:33:21       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:33:22       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:33:22       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:33:26       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:33:29       Captured screenshot for passed step: Click on File Icon CreditNote MainGrid                           
+2025-08-29 12:33:31       Captured screenshot for passed step: Validate File Icon Should Display                           
+2025-08-29 12:33:31       Scenario Passed.                                                                                 
+2025-08-29 12:33:36       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:33:37       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:33:37       Successfully redirected to login page after logout.                                              
+2025-08-29 12:33:37       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:33:37       Browser closed.                                                                                  
+2025-08-29 12:33:38       Scenario:Valiate Edit CreditNote Page                                                            
+2025-08-29 12:33:38       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:33:38       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:33:40       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:33:40       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:33:41       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:33:42       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:33:42       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:33:42       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:33:45       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:33:45       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:33:45       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:33:45       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:33:58       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:33:59       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:34:09       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:34:09       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:34:09       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:34:10       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:34:11       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:34:11       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:34:14       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:34:20       Captured screenshot for passed step: Click on Recript ID                                         
+2025-08-29 12:34:20       Captured screenshot for passed step: Valdate Edit Purchase CrditNOte Page Should Display                           
+2025-08-29 12:34:20       Scenario Passed.                                                                                 
+2025-08-29 12:34:20       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:34:22       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:34:22       Successfully redirected to login page after logout.                                              
+2025-08-29 12:34:22       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:34:22       Browser closed.                                                                                  
+2025-08-29 12:34:23       Scenario:Validate Suplier Dropdown in Edit Purchase CreditNote Page                              
+2025-08-29 12:34:23       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:34:23       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:34:25       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:34:25       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:34:26       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:34:26       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:34:26       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:34:26       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:34:29       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:34:29       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:34:29       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:34:30       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:34:43       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:34:43       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:34:53       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:34:53       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:34:53       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:34:54       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:34:55       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:34:55       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:34:58       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:35:04       Captured screenshot for passed step: Click on Recript ID                                         
+2025-08-29 12:35:20       Captured screenshot for passed step: Validate Supplier Dropdown and Select Supplier                           
+2025-08-29 12:35:20       Captured screenshot for passed step: Click on Save and Exit button in Edit Purchase CreditNote                           
+2025-08-29 12:35:21       Captured screenshot for passed step: Calidate Supplier Name In the MainGrid                           
+2025-08-29 12:35:21       Scenario Passed.                                                                                 
+2025-08-29 12:35:21       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:35:23       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:35:23       Successfully redirected to login page after logout.                                              
+2025-08-29 12:35:23       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:35:23       Browser closed.                                                                                  
+2025-08-29 12:35:24       Scenario:Validate SettingsIcon in Edit Purchase CreditNote Page                                  
+2025-08-29 12:35:24       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:35:24       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:35:26       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:35:26       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:35:27       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:35:27       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:35:28       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:35:28       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:35:32       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:35:32       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:35:32       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:35:32       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:35:45       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:35:45       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:35:55       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:35:55       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:35:55       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:35:56       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:35:57       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:35:57       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:36:01       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:36:06       Captured screenshot for passed step: Click on Recript ID                                         
+2025-08-29 12:36:21       Captured screenshot for failed step: Click on Recript ID                                         
+2025-08-29 12:36:21       Scenario Failed.                                                                                 
+2025-08-29 12:36:21       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:36:22       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:36:22       Successfully redirected to login page after logout.                                              
+2025-08-29 12:36:22       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:36:22       Browser closed.                                                                                  
+2025-08-29 12:36:23       Scenario:Validate VATRate Dropdown in Settings popup                                             
+2025-08-29 12:36:23       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:36:23       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:36:25       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:36:26       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:36:27       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:36:27       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:36:27       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:36:27       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:36:30       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:36:31       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:36:31       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:36:31       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:36:44       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:36:44       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:36:54       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:36:54       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:36:54       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:36:55       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:36:56       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:36:56       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:36:59       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:37:05       Captured screenshot for passed step: Click on Recript ID                                         
+2025-08-29 12:37:20       Captured screenshot for failed step: Click on Recript ID                                         
+2025-08-29 12:37:20       Scenario Failed.                                                                                 
+2025-08-29 12:37:20       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:37:21       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:37:21       Successfully redirected to login page after logout.                                              
+2025-08-29 12:37:21       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:37:21       Browser closed.                                                                                  
+2025-08-29 12:37:22       Scenario:Validate plus Icon Edit Purchase CreditNote Page                                        
+2025-08-29 12:37:22       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:37:23       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:37:24       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:37:25       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:37:26       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:37:26       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:37:26       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:37:26       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:37:29       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:37:29       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:37:29       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:37:30       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:37:44       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:37:44       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:37:54       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:37:54       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:37:54       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:37:55       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:37:56       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:37:56       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:37:59       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:38:04       Captured screenshot for passed step: Click on Recript ID                                         
+2025-08-29 12:38:05       Captured screenshot for passed step: Click on Supplier button                                    
+2025-08-29 12:38:05       Captured screenshot for passed step: Add New Supplier Page Should Display                           
+2025-08-29 12:38:05       Scenario Passed.                                                                                 
+2025-08-29 12:38:05       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:38:07       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:38:07       Successfully redirected to login page after logout.                                              
+2025-08-29 12:38:07       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:38:07       Browser closed.                                                                                  
+2025-08-29 12:38:08       Scenario:Validate plus Icon Edit Purchase CreditNote Page                                        
+2025-08-29 12:38:08       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:38:08       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:38:10       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:38:10       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:38:11       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:38:11       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:38:12       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:38:12       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:38:15       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:38:15       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:38:15       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:38:15       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:38:28       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:38:28       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:38:38       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:38:38       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:38:39       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:38:39       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:38:41       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:38:41       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:38:44       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:38:57       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:38:57       Scenario Failed.                                                                                 
+2025-08-29 12:38:57       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:38:59       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:38:59       Successfully redirected to login page after logout.                                              
+2025-08-29 12:38:59       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:38:59       Browser closed.                                                                                  
+2025-08-29 12:39:00       Scenario:Validate EditSupplier button                                                            
+2025-08-29 12:39:00       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:39:00       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:39:03       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:39:03       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:39:04       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:39:04       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:39:04       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:39:04       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:39:07       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:39:08       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:39:08       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:39:08       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:39:21       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:39:21       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:39:31       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:39:31       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:39:31       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:39:32       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:39:33       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:39:33       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:39:36       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:39:50       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:39:50       Scenario Failed.                                                                                 
+2025-08-29 12:39:50       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:39:51       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:39:51       Successfully redirected to login page after logout.                                              
+2025-08-29 12:39:51       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:39:52       Browser closed.                                                                                  
+2025-08-29 12:39:53       Scenario:Verify UploadCreditNotes button MainGrid                                                
+2025-08-29 12:39:53       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:39:53       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:39:54       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:39:55       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:39:56       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:39:56       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:39:56       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:39:56       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:39:59       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:39:59       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:39:59       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:39:59       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:40:13       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:40:13       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:40:23       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:40:23       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:40:23       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:40:24       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:40:25       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:40:25       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:40:28       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:40:38       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:40:38       Scenario Failed.                                                                                 
+2025-08-29 12:40:39       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:40:40       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:40:40       Successfully redirected to login page after logout.                                              
+2025-08-29 12:40:40       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:40:40       Browser closed.                                                                                  
+2025-08-29 12:40:41       Scenario:Validate Duplicate buttom in the main Grid                                              
+2025-08-29 12:40:41       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:40:41       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:40:43       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:40:44       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:40:45       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:40:45       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:40:45       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:40:45       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:40:49       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:40:50       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:40:50       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:40:50       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:41:03       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:41:03       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:41:13       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:41:13       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:41:13       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:41:14       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:41:16       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:41:16       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:41:19       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:41:29       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:41:29       Scenario Failed.                                                                                 
+2025-08-29 12:41:29       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:41:31       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:41:31       Successfully redirected to login page after logout.                                              
+2025-08-29 12:41:31       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:41:31       Browser closed.                                                                                  
+2025-08-29 12:41:32       Scenario:Valdidate Duplicate popup                                                               
+2025-08-29 12:41:32       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:41:32       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:41:34       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:41:34       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:41:35       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:41:36       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:41:36       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:41:36       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:41:39       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:41:40       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:41:40       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:41:40       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:41:53       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:41:53       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:42:03       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:42:03       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:42:03       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:42:04       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:42:05       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:42:05       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:42:08       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:42:18       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:42:18       Scenario Failed.                                                                                 
+2025-08-29 12:42:19       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:42:20       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:42:20       Successfully redirected to login page after logout.                                              
+2025-08-29 12:42:20       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:42:20       Browser closed.                                                                                  
+2025-08-29 12:42:21       Scenario:Validate Process Duplicate Upload popup with Yes button                                 
+2025-08-29 12:42:21       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:42:21       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:42:23       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:42:23       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:42:25       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:42:25       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:42:25       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:42:25       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:42:29       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:42:29       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:42:29       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:42:29       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:42:42       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:42:42       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:42:52       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:42:52       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:42:53       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:42:53       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:42:55       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:42:55       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:42:58       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:43:08       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:43:08       Scenario Failed.                                                                                 
+2025-08-29 12:43:08       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:43:10       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:43:10       Successfully redirected to login page after logout.                                              
+2025-08-29 12:43:10       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:43:10       Browser closed.                                                                                  
+2025-08-29 12:43:11       Scenario:Validate Process Duplicate Upload popup with No button                                  
+2025-08-29 12:43:11       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:43:11       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:43:13       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:43:13       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:43:14       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:43:14       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:43:14       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:43:14       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:43:18       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:43:18       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:43:18       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:43:18       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:43:31       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:43:31       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:43:41       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:43:41       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:43:41       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:43:42       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:43:43       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:43:44       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:43:47       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:43:57       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:43:57       Scenario Failed.                                                                                 
+2025-08-29 12:43:57       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:43:58       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:43:58       Successfully redirected to login page after logout.                                              
+2025-08-29 12:43:58       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:43:59       Browser closed.                                                                                  
+2025-08-29 12:44:00       Scenario:Validate cancel button in Upload CreditNotes Page                                       
+2025-08-29 12:44:00       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:44:00       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:44:02       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:44:02       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:44:03       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:44:03       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:44:03       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:44:03       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:44:07       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:44:07       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:44:07       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:44:07       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:44:21       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:44:21       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:44:31       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:44:31       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:44:31       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:44:32       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:44:33       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:44:33       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:44:37       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:44:47       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:44:47       Scenario Failed.                                                                                 
+2025-08-29 12:44:47       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:44:48       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:44:48       Successfully redirected to login page after logout.                                              
+2025-08-29 12:44:48       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:44:49       Browser closed.                                                                                  
+2025-08-29 12:44:50       Scenario:Validate NextButton Purchase CreditNote Menu                                            
+2025-08-29 12:44:50       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:44:50       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:44:51       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:44:52       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:44:53       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:44:53       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:44:53       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:44:53       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:44:56       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:44:56       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:44:56       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:44:57       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:45:10       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:45:10       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:45:20       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:45:20       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:45:20       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:45:30       Captured screenshot for failed step: Redirect to365 client                                       
+2025-08-29 12:45:30       Scenario Failed.                                                                                 
+2025-08-29 12:46:30       No logout element was clicked.                                                                   
+2025-08-29 12:46:30       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:46:31       Browser closed.                                                                                  
+2025-08-29 12:46:32       Scenario:Validate PreviousButton Purchase CreditNote Menu                                        
+2025-08-29 12:46:32       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:46:32       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:46:34       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:46:34       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:46:35       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:46:35       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:46:36       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:46:36       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:46:40       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:46:40       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:46:40       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:46:40       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:46:53       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:46:53       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:47:03       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:47:03       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:47:04       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:47:04       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:47:05       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:47:06       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:47:09       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:47:09       Captured screenshot for passed step: Validate Next button                                        
+2025-08-29 12:47:10       Captured screenshot for passed step: Validate Previous button                                    
+2025-08-29 12:47:10       Scenario Passed.                                                                                 
+2025-08-29 12:47:11       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:47:12       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:47:12       Successfully redirected to login page after logout.                                              
+2025-08-29 12:47:12       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:47:12       Browser closed.                                                                                  
+2025-08-29 12:47:13       Scenario:Validate GotoPage Purchase CreditNote Screen                                            
+2025-08-29 12:47:13       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:47:13       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:47:15       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:47:15       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:47:16       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:47:16       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:47:16       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:47:17       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:47:20       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:47:20       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:47:20       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:47:20       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:47:33       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:47:33       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:47:43       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:47:43       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:47:43       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:47:44       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:47:45       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:47:46       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:47:49       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:47:59       Captured screenshot for passed step: Validate Goto Page                                          
+2025-08-29 12:47:59       Scenario Passed.                                                                                 
+2025-08-29 12:47:59       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:48:01       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:48:01       Successfully redirected to login page after logout.                                              
+2025-08-29 12:48:01       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:48:01       Browser closed.                                                                                  
+2025-08-29 12:48:02       Scenario:Validating Export from Footer                                                           
+2025-08-29 12:48:02       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 12:48:02       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 12:48:04       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 12:48:04       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 12:48:05       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 12:48:05       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 12:48:05       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 12:48:05       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 12:48:09       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 12:48:09       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 12:48:09       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 12:48:09       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 12:48:23       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 12:48:23       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 12:48:33       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 12:48:33       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 12:48:33       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 12:48:34       Captured screenshot for passed step: Click on Receipts Menu                                      
+2025-08-29 12:48:35       Clicked sidebar expand arrow.                                                                    
+2025-08-29 12:48:35       Captured screenshot for passed step: Click on KeyBoardErrorRightt                                
+2025-08-29 12:48:38       Captured screenshot for passed step: Click on CreditNotes Menu                                   
+2025-08-29 12:48:48       Captured screenshot for failed step: Click on CreditNotes Menu                                   
+2025-08-29 12:48:48       Scenario Failed.                                                                                 
+2025-08-29 12:48:49       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 12:48:50       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 12:48:50       Successfully redirected to login page after logout.                                              
+2025-08-29 12:48:50       Successfully logged out and redirected to login page.                                            
+2025-08-29 12:48:50       Browser closed.                                                                                  
+2025-08-29 13:19:13       Driver setup successfully                                                                        
+2025-08-29 13:19:13       Scenario:User login                                                                              
+2025-08-29 13:19:13       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-08-29 13:19:13       Captured screenshot for passed step: Launch the browser                                          
+2025-08-29 13:19:15       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-08-29 13:19:15       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-08-29 13:19:16       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-08-29 13:19:16       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-08-29 13:19:16       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-08-29 13:19:17       Captured screenshot for passed step: User Enter username and Password                            
+2025-08-29 13:19:21       User Click on next button                                              satishkumar.silphoz Button    
+2025-08-29 13:19:21       Captured screenshot for passed step: User Click on login button                                  
+2025-08-29 13:19:21       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-08-29 13:19:21       Captured screenshot for passed step: User enter OTP                                              
+2025-08-29 13:19:35       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-08-29 13:19:35       Captured screenshot for passed step: Click on verify account                                     
+2025-08-29 13:19:45       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-08-29 13:19:45       Successfully captured screenshot: Redirect to365 client                                          
+2025-08-29 13:19:45       Captured screenshot for passed step: Redirect to365 client                                       
+2025-08-29 13:19:45       Scenario Passed.                                                                                 
+2025-08-29 13:19:45       Clicked 5.0 Profile Icon.                                                                        
+2025-08-29 13:19:47       Clicked 5.0 Sign Out.                                                                            
+2025-08-29 13:19:47       Successfully redirected to login page after logout.                                              
+2025-08-29 13:19:47       Successfully logged out and redirected to login page.                                            
+2025-08-29 13:19:47       Browser closed.                                                                                  
+2025-09-04 15:56:31       Driver setup successfully                                                                        
+2025-09-04 15:56:32       Scenario:User login                                                                              
+2025-09-04 15:56:32       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-09-04 15:56:32       Captured screenshot for passed step: Launch the browser                                          
+2025-09-04 15:56:34       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-09-04 15:56:34       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-09-04 15:56:36       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-09-04 15:56:36       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-09-04 15:56:36       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-09-04 15:56:36       Captured screenshot for passed step: User Enter username and Password                            
+2025-09-04 15:56:41       User Click on next button                                              satishkumar.silphoz Button    
+2025-09-04 15:56:41       Captured screenshot for passed step: User Click on login button                                  
+2025-09-04 15:56:41       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-09-04 15:56:41       Captured screenshot for passed step: User enter OTP                                              
+2025-09-04 15:56:54       Login button clicked sucessfully                                       satishkumar.silphoz Verifying 
+2025-09-04 15:56:54       Captured screenshot for passed step: Click on verify account                                     
+2025-09-04 15:57:04       Redirected to Capium365 homepage sucessfully                           satishkumar.silphoz Redirection
+2025-09-04 15:57:04       Successfully captured screenshot: Redirect to365 client                                          
+2025-09-04 15:57:04       Captured screenshot for passed step: Redirect to365 client                                       
+2025-09-04 15:57:04       Scenario Passed.                                                                                 
+2025-09-04 15:57:05       Clicked 5.0 Profile Icon.                                                                        
+2025-09-04 15:57:06       Clicked 5.0 Sign Out.                                                                            
+2025-09-04 15:57:06       Successfully redirected to login page after logout.                                              
+2025-09-04 15:57:06       Successfully logged out and redirected to login page.                                            
+2025-09-04 15:57:06       Browser closed.                                                                                  
+2025-10-03 10:15:39       Driver setup successfully                                                                        
+2025-10-03 10:15:40       Scenario:Validate Invoice dashboard chart for 'Time Filter'                                      
+2025-10-03 10:15:40       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-10-03 10:15:40       Captured screenshot for passed step: Launch the browser                                          
+2025-10-03 10:15:43       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-10-03 10:15:43       Captured screenshot for passed step: User need to enter the Application Url                           
+2025-10-03 10:15:45       Click on Capium365 Client login                                        satishkumar.silphoz Click     
+2025-10-03 10:15:45       Captured screenshot for passed step: Click on Capium365 Client login                             
+2025-10-03 10:15:45       Username and Password entered successfully.                            satishkumar.silphoz Credentials
+2025-10-03 10:15:46       Captured screenshot for passed step: User Enter username and Password                            
+2025-10-03 10:15:51       User Click on next button                                              satishkumar.silphoz Button    
+2025-10-03 10:15:51       Captured screenshot for passed step: User Click on login button                                  
+2025-10-03 10:15:51       OTP enterned sucessfully                                               satishkumar.silphoz OTP       
+2025-10-03 10:15:51       Captured screenshot for passed step: User enter OTP                                              
+2025-10-03 10:15:58       Failed to capture screenshot for step: User enter OTP | Error: invalid session id
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [25d67644d391644e263088fdd5707d16, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.54, chrome: {chromedriverVersion: 141.0.7390.54 (b95610d5c4a5..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56192/devtoo..., se:cdpVersion: 141.0.7390.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 25d67644d391644e263088fdd5707d16                           
+2025-10-03 10:15:58       Scenario Failed.                                                                                 
+2025-10-03 10:15:58       No logout element was clicked.                                                                   
+2025-10-03 10:15:58       Successfully logged out and redirected to login page.                                            
+2025-10-03 10:15:58       Browser closed.                                                                                  
+2025-10-03 10:16:00       Scenario:Validate Transactions dashboard chart for 'This Year'                                   
+2025-10-03 10:16:00       Launch browser successfully.                                           satishkumar.silphoz Browser Launching
+2025-10-03 10:16:01       Captured screenshot for passed step: Launch the browser                                          
+2025-10-03 10:16:03       User need to enter the Application Url                                 satishkumar.silphoz URL entered successfully.
+2025-10-03 10:16:03       Failed to capture screenshot for step: User need to enter the Application Url | Error: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=141.0.7390.54)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7f816ff8dce3b7a584f0faeb3ab94b60, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.54, chrome: {chromedriverVersion: 141.0.7390.54 (b95610d5c4a5..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56254}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56254/devtoo..., se:cdpVersion: 141.0.7390.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7f816ff8dce3b7a584f0faeb3ab94b60                           
+2025-10-03 10:16:03       Failed to capture screenshot for step: User need to enter the Application Url | Error: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=141.0.7390.54)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7f816ff8dce3b7a584f0faeb3ab94b60, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.54, chrome: {chromedriverVersion: 141.0.7390.54 (b95610d5c4a5..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56254}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56254/devtoo..., se:cdpVersion: 141.0.7390.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7f816ff8dce3b7a584f0faeb3ab94b60                           
+2025-10-03 10:16:03       Scenario Failed.                                                                                 

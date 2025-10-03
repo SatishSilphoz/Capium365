@@ -20,12 +20,15 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.cucumber.java.Scenario;
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 
 public class HelperClass {
@@ -43,7 +46,43 @@ public class HelperClass {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(TIMEOUT)); 
 		wait = new WebDriverWait(driver, Duration.ofSeconds(TIMEOUT));
 		}
-	
+			
+	//public HelperClass() {
+//       WebDriverManager.chromedriver().browserVersion("139.0.7258.155").setup(); // Auto manages driver
+//        ChromeOptions options = new ChromeOptions();
+//        options.addArguments("--start-maximized");
+//
+//        driver = new ChromeDriver(options);
+		
+		
+		
+		// Force Chrome version (replace with actual installed version)
+//		WebDriverManager.chromedriver().browserVersion("139.0.7258.155").arch64().setup();
+//
+//		ChromeOptions options = new ChromeOptions();
+//		options.addArguments("--start-maximized");
+//		options.addArguments("--headless=new");
+//		options.addArguments("--disable-gpu");
+//		options.addArguments("--no-sandbox");
+//		options.addArguments("--disable-dev-shm-usage");
+//
+//		WebDriver driver = new ChromeDriver(options);
+//		
+//        
+//
+//		
+//		
+//		ChromeOptions options = new ChromeOptions();
+//		options.setBinary("C:\\Program Files\\Google\\Chrome\\Application"); // Or your actual path
+//		options.addArguments("--start-maximized");
+//
+//		WebDriverManager.chromedriver().setup();
+//		WebDriver driver = new ChromeDriver(options);
+//		
+//		
+//    }
+
+  
 	public static WebDriver getDriver() {
 		if (driver == null) {
 			setUpDriver();
