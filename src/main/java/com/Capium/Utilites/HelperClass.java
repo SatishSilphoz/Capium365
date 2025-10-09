@@ -40,6 +40,7 @@ public class HelperClass {
 	private static String screenshotDirectory = "screenshots/";
 	
 	private HelperClass() { 
+		System.setProperty("webdriver.chrome.driver", "C:\\selenium-drivers\\chromedriver.exe");
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("--start-maximized");
 		driver = new ChromeDriver(options);
